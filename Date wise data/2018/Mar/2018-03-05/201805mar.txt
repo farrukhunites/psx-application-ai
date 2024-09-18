@@ -1,0 +1,1565 @@
+MARKET_CODE,SYMBOL_CODE,SYMBOL_NAME,SETTLEMENT_TYPE,ORDER_REJECT_UPPER_PRICE,ORDER_REJECT_LOWER_PRICE,LAST_DAY_CLOSE_PRICE
+ 
+'REG','PSYL','Pakistan Synthentics Ltd. ','READY',23.1,20.9,22
+'REG','KOHE','Kohinoor Energy Ltd.(XD) ','READY',41.3385,37.4015,39.37
+'REG','BAPL','Bawany Air Products Ltd. ','READY',9.66,7.66,8.66
+'REG','IGIIL','IGI Insurance Limited.(XD) ','READY',324.975,294.025,309.5
+'REG','CRTM','Crescent Textile Mills Ltd. ','READY',33.579,30.381,31.98
+'REG','FATIMA','Fatima Fertilizer Co Ltd. ','READY',32.7075,29.5925,31.15
+'REG','ATRL','Attock Refinery Limited. ','READY',271.7085,245.8315,258.77
+'REG','EFOODS','Engro Foods Limited. ','READY',97.545,88.255,92.9
+'REG','PSEL','Pakistan Services Limited. ','READY',1039.5,940.5,990
+'REG','MODAM','Modarba Al-Mali. ','READY',4.98,2.98,3.98
+'REG','TPLI','TPL Insurance Ltd. ','READY',21,19,20
+'REG','FMMFO','Faysal Money Market Fund ','READY',109.998,99.522,104.76
+'REG','PDRFO','Primus Daily Reserve Fund. ','READY',87.3075,78.9925,83.15
+'REG','LPL','LALPIR Power Limited. ','READY',22.05,19.95,21
+'REG','EPQL','Engro Powergen Qadirpur Ltd ','READY',36.7395,33.2405,34.99
+'REG','HBLMMF','HBL Money Market Fund. ','READY',110.5627,100.0329,105.2978
+'REG','UBLISFO','UBL Islamic Sovereign Fund ','READY',105.5362,95.4852,100.5107
+'REG','CTM','Colony Textile Mills Ltd. ','READY',5.06,3.06,4.06
+'REG','AVN','Avanceon Limited. ','READY',52.3005,47.3195,49.81
+'REG','HASCOL','Hascol Petroleum Ltd. ','READY',293.328,265.392,279.36
+'REG','EFERT','Engro Fertilizers Limited. ','READY',72.933,65.987,69.46
+'REG','PIBTL','Pakistan Intl. Bulk Terminal Ltd. ','READY',18.31,16.31,17.31
+'REG','SPWL','Saif Power Ltd. ','READY',30.03,27.17,28.6
+'REG','UBLSIFO','UBL Saving Income Fund ','READY',108.9377,98.5627,103.7502
+'REG','UBLGSFO','UBL Government Securities Fund ','READY',110.927,100.3626,105.6448
+'REG','TBIL00010007','TBILL00010007 ','READY',2,.01,1
+'REG','TBIL00080015','TBILL00080015 ','READY',2,.01,1
+'REG','TBIL00160030','TBILL00160030 ','READY',2,.01,1
+'REG','TBIL00310060','TBILL00310060 ','READY',2,.01,1
+'REG','TBIL00610090','TBILL00610090 ','READY',2,.01,1
+'REG','CYAN','Cyan Limited. ','READY',42,38,40
+'REG','ICIBL','Invest Capital Investment Bank Ltd. ','READY',2.7,.7,1.7
+'REG','WAHN','Wah Noble Chemicals Ltd. ','READY',262.878,237.842,250.36
+'REG','BATA','Bata Pakistan Ltd. ','READY',2923.2,2644.8,2784
+'REG','AICL','Adamjee Insurance Co. Ltd. ','READY',59.3775,53.7225,56.55
+'REG','CPPL','Cherat Packaging Limited.(XD) ','READY',190.596,172.444,181.52
+'REG','FEM','First Equity Mod. ','READY',5,3,4
+'REG','PMPK','Philip Morris (Pakistan)Ltd. ','READY',3307.5,2992.5,3150
+'REG','CLOV','Clover Pakistan Limited. ','READY',88.7145,80.2655,84.49
+'REG','IMSL','Imperial Sugar Limited. ','READY',24.339,22.021,23.18
+'REG','HWQS','Haseeb Waqas Sugar Mills Limit ','READY',9.15,7.15,8.15
+'REG','PASL','Pervez Ahmed Securities Ltd. ','READY',1.96,.01,.96
+'REG','GFIL','Ghazi Fabrics International Ltd. ','READY',4.6,2.6,3.6
+'REG','SSOM','S .S . Oil Mills Ltd. ','READY',48.741,44.099,46.42
+'REG','FFBL','Fauji Fertilizer Bin Qasim Ltd. ','READY',39.312,35.568,37.44
+'REG','MCBAH','MCB-Arif Habib Savings & Invest Ltd ','READY',25.0005,22.6195,23.81
+'REG','ABL','Allied Bank Ltd. ','READY',98.385,89.015,93.7
+'REG','BWHL','Baluchistan Wheels Ltd. ','READY',127.7325,115.5675,121.65
+'REG','ECOP','ECOPAK Limited. ','READY',22.344,20.216,21.28
+'REG','SPL','Sitara Peroxide Limited ','READY',19.33,17.33,18.33
+'REG','SFL','Sapphire Fibres Mills Ltd. ','READY',945,855,900
+'REG','MSCL','Metropolitan Steel Corporation ','READY',19.65,17.65,18.65
+'REG','PASM','Paramount Spinning Mills. ','READY',3.02,1.02,2.02
+'REG','SMCPL','Safe Mix Concrete Ltd. ','READY',9.72,7.72,8.72
+'REG','TSPL','Tri -Star Power Ltd. ','READY',6.99,4.99,5.99
+'REG','JVDCPS','Javedan Corporation Ltd-Non Voting ','READY',24.15,21.85,23
+'REG','BHAT','Bhanero Textile Mills Ltd. ','READY',895.23,809.97,852.6
+'REG','BIPLS','BIPL Securities Ltd. ','READY',8,6,7
+'REG','LUCK','Lucky Cement Limited. ','READY',685.0515,619.8085,652.43
+'REG','FFLNV','Fauji Foods Non Voting. ','READY',27.846,25.194,26.52
+'REG','BNWM','Bannu Woollen Mills Limited. ','READY',57.9075,52.3925,55.15
+'REG','TELE','Telecard Ltd. ','READY',3.02,1.02,2.02
+'REG','NPL','Nishat Power Limited. ','READY',34.3245,31.0555,32.69
+'REG','ISL','International Steels Limited. ','READY',125.9475,113.9525,119.95
+'REG','MDTL','Media Times Limited. ','READY',2.6,.6,1.6
+'REG','FPRM','First Paramount Mod. ','READY',7.65,5.65,6.65
+'REG','SEPL','Security Papers Ltd. ','READY',128.7405,116.4795,122.61
+'REG','AGL','Agritech Limited ','READY',9.79,7.79,8.79
+'REG','AMTEX','Amtex Limited. ','READY',2.43,.43,1.43
+'REG','ISIL','Ismail Industries Ltd. ','READY',400.05,361.95,381
+'REG','LOTCHEM','Lotte Chemical Pakistan Ltd. ','READY',9.86,7.86,8.86
+'REG','FPJM','First Punjab Mod.(XD) ','READY',6,4,5
+'REG','POL','Pakistan Oilfields Limited. ','READY',643.2615,581.9985,612.63
+'REG','IDYM','Indus Dyeing & Manufacturing. ','READY',467.25,422.75,445
+'REG','SYS','Systems Limited. ','READY',92.4,83.6,88
+'REG','PKGP','Pakgen Power Limited. ','READY',22.0605,19.9595,21.01
+'REG','KASBCFO','KASB Cash Fund ','READY',110.7391,100.1925,105.4658
+'REG','SLCL','Security Leasing Corp. ','READY',12.62,10.62,11.62
+'REG','JSCFO','JS Cash Fund ','READY',110.2992,99.7946,105.0469
+'REG','MCFO','Meezan Cash Fund ','READY',53.0315,47.9809,50.5062
+'REG','MCBCMO','MCB Cash Managment Optimizer Fund ','READY',109.3061,98.896,104.101
+'REG','PACMF','Pakistan Cash Managment Fund ','READY',54.436,49.2516,51.8438
+'REG','AGIC','Askari Gen Insurance Co. ','READY',29.82,26.98,28.4
+'REG','ASCFO','Askari Sovereign Cash Fund ','READY',108.8153,98.4519,103.6336
+'REG','AGLNCPS','Agritech Ltd Non-Voting (Pref) Class A ','READY',3,1,2
+'REG','UBLLPFO','UBL Liquidity Plus Fund ','READY',109.5389,99.1067,104.3228
+'REG','NEXT','Next Capital Limited. ','READY',10.14,8.14,9.14
+'REG','ASL','Aisha Steel Mills Limited. ','READY',22.0395,19.9405,20.99
+'REG','ASLPS','Aisha Steel Mills Convertibl  Pre-Sh ','READY',22.05,19.95,21
+'REG','TPL','TPL CORP Limited. ','READY',9.15,7.15,8.15
+'REG','DMTM','Dewan Mushtaq Textile Mills Ltd. ','READY',7.7,5.7,6.7
+'REG','ICI','ICI Pakistan Limited. ','READY',805.8855,729.1345,767.51
+'REG','GAMON','Gammon Pak. ','READY',21.1575,19.1425,20.15
+'REG','EFUL','EFU Life Assurance Ltd. ','READY',276.738,250.382,263.56
+'REG','SILK','Silk Bank Limited. ','READY',2.4,.4,1.4
+'REG','GATM','Gul Ahmed Textile Mills Ltd. ','READY',40.7505,36.8695,38.81
+'REG','SCL','Shield Corporation Ltd. ','READY',320.25,289.75,305
+'REG','NINA','M/S Nina Industries Ltd. ','READY',2.01,.01,1.01
+'REG','FNEL','First National Equities Limited. ','READY',6.31,4.31,5.31
+'REG','JSCL','Jahangir Siddiqui & Company Ltd. ','READY',20.93,18.93,19.93
+'REG','AABS','Al-Abbas Sugar Mills Ltd.(XD) ','READY',195.0585,176.4815,185.77
+'REG','SHCI','Shaffi Chemical Ind. Ltd. ','READY',7.49,5.49,6.49
+'REG','SNAI','Sana Industries Ltd. ','READY',41.412,37.468,39.44
+'REG','GATI','Gatron (Industries) Ltd. ','READY',185.829,168.131,176.98
+'REG','DCL','Dewan Cement Limited. ','READY',27.9615,25.2985,26.63
+'REG','ARM','Allied Rental Modaraba. ','READY',20,18,19
+'REG','FNBM','First National Bank Modaraba. ','READY',3.19,1.19,2.19
+'REG','AHL','Arif Habib Limited. ','READY',51.513,46.607,49.06
+'REG','EXIDE','Exide Pakistan Ltd. ','READY',413.7,374.3,394
+'REG','BELA','Bela Automotives Ltd. ','READY',2.3,.3,1.3
+'REG','HIRAT','Hira Textile Mills Ltd. ','READY',9.5,7.5,8.5
+'REG','PACE','Pace (Pakistan) Ltd. ','READY',5.21,3.21,4.21
+'REG','DIIL','Dimond Industries Ltd. ','READY',25.872,23.408,24.64
+'REG','JSBL','JS Bank Limited. ','READY',9.14,7.14,8.14
+'REG','MEBL','Meezan Bank Limited. ','READY',81.9,74.1,78
+'REG','FDMF','First Dawood Mutual Fund. ','READY',8,6,7
+'REG','ATMMFO','Atlas Money Market Fund ','READY',545.951,493.9556,519.9533
+'REG','SHEL','Shell Pakistan Ltd. ','READY',343.497,310.783,327.14
+'REG','SCBPL','Standard Chartered Bank (Pak) Ltd. ','READY',25.3995,22.9805,24.19
+'REG','FCSC','First Capital Sec.Corp. Ltd. ','READY',3.2,1.2,2.2
+'REG','JSIL','JS Investments Limited. ','READY',11,9,10
+'REG','NICL','Nimir Industrial Chemical Ltd. ','READY',62.4645,56.5155,59.49
+'REG','CHBL','Chenab Limited ','READY',3.41,1.41,2.41
+'REG','COLG','Colgate Palmolive (Pak) Ltd. ','READY',3045,2755,2900
+'REG','MQTM','Maqbool Textile Mills Ltd. ','READY',30.702,27.778,29.24
+'REG','ZTL','Zephyr Textile Limited. ','READY',11.25,9.25,10.25
+'REG','HMIM','Haji Mohammed Ismail Mills Lim ','READY',9.75,7.75,8.75
+'REG','CECL','The Climax Engineering Co. Ltd. ','READY',67.6515,61.2085,64.43
+'REG','INMF','Investec Mutual Fund ','READY',1.17,.01,.17
+'REG','BAFL','Bank Alfalah Ltd. ','READY',49.5075,44.7925,47.15
+'REG','IBLHL','IBL HealthCare Limited. ','READY',95.0985,86.0415,90.57
+'REG','DOL','Descon Oxychem Ltd.. ','READY',19.63,17.63,18.63
+'REG','NAFAGSLFO','NAFA Government Securities Liquid Fund ','READY',11.5159,9.5159,10.5159
+'REG','ADMM','Artistic Denim Mills Limited. ','READY',84,76,80
+'REG','SPEL','Synthetic Products Enterprises Ltd. ','READY',57.204,51.756,54.48
+'REG','EPCL','Engro Polymer & Chemicals Ltd. ','READY',32.4345,29.3455,30.89
+'REG','FCIBL','First Credit & Investment Bank Ltd. ','READY',5.2,3.2,4.2
+'REG','BMAECFO','BMA Empress Cash Fund. ','READY',11.4371,9.4371,10.4371
+'REG','AWTX','Allawasaya Tex. & Finishing Mills. ','READY',396.9,359.1,378
+'REG','NCPL','Nishat Chunian Power Ltd. ','READY',30.975,28.025,29.5
+'REG','GGL','Ghani Gases Limited. ','READY',20.95,18.95,19.95
+'REG','DAWH','Dawood Hercules Corporation Ltd. ','READY',126.7665,114.6935,120.73
+'REG','HICL','Habib Insurance Co Ltd. ','READY',15.39,13.39,14.39
+'REG','HBL','Habib Bank Limited. ','READY',223.503,202.217,212.86
+'REG','KASBM','KASB Modaraba. ','READY',2.81,.81,1.81
+'REG','LEUL','Leather Up Ltd. ','READY',21.42,19.38,20.4
+'REG','FLYNG','Flying Cement Company Ltd. ','READY',15.85,13.85,14.85
+'REG','ATLH','Atlas Honda Limited. ','READY',562.8,509.2,536
+'REG','HADC','Hayderi Construction. ','READY',17.51,15.51,16.51
+'REG','ICL','Ittehad Chemical Ltd. ','READY',36.729,33.231,34.98
+'REG','NRSL','Nimir Resins Limited. ','READY',8.74,6.74,7.74
+'REG','GHGL','Ghani Glass Ltd.(XR) ','READY',72.954,66.006,69.48
+'REG','FCONM','First Constellation Modaraba. ','READY',2.19,.19,1.19
+'REG','THCCL','Thatta Cement Company Ltd. ','READY',24.7275,22.3725,23.55
+'REG','ALTN','Altern Energy Ltd. ','READY',43.05,38.95,41
+'REG','INKL','International Knitwear Ltd. ','READY',12.95,10.95,11.95
+'REG','FTSM','First Tri-Star Mod. ','READY',13.5389,11.5389,12.5389
+'REG','FRSM','Faran Sugar Mills Ltd. ','READY',86.1525,77.9475,82.05
+'REG','NBP','National Bank Of Pakistan. ','READY',50.169,45.391,47.78
+'REG','ITSL','Investec Securities Ltd ','READY',1.42,.01,.42
+'REG','CLCPS','Chenab Limited Preference Shares. ','READY',2,.01,1
+'REG','ASTL','Amreli Steels Limited. ','READY',96.852,87.628,92.24
+'REG','SNGP','Sui Northern Gas Pipe Line Ltd. ','READY',124.0785,112.2615,118.17
+'REG','SALT','Salfi Textile Mills Ltd. ','READY',168.7875,152.7125,160.75
+'REG','TRG','TRG Pakistan Ltd. ','READY',39.1335,35.4065,37.27
+'REG','SML','Shakarganj Limited. ','READY',74.4135,67.3265,70.87
+'REG','PICL','Pakistan Industrial & Comm.Lea. ','READY',1.1,.01,.1
+'REG','AWWAL','Awwal Modaraba. ','READY',11,9,10
+'REG','ACPL','Attock Cement Pak Ltd. ','READY',200.1615,181.0985,190.63
+'REG','BYCO','BYCO Petroleum Pak Ltd. ','READY',16.22,14.22,15.22
+'REG','DYNO','DYNEA Pak ','READY',195.6885,177.0515,186.37
+'REG','SRVI','Service Industries. ','READY',840,760,800
+'REG','ZIL','ZIL Limited. ','READY',127.575,115.425,121.5
+'REG','OGDC','Oil & Gas Development Company Ltd. ','READY',173.397,156.883,165.14
+'REG','MACFL','MACPAC Films Limited. ','READY',20.56,18.56,19.56
+'REG','PRIC','Progressive Insurance Co Ltd. ','READY',2.13,.13,1.13
+'REG','PIF','PICIC Investment Fund. ','READY',14.2,12.2,13.2
+'REG','ANLPS','Azgard Nine (Pref) ','READY',10.8,8.8,9.8
+'REG','PPL','Pakistan Petroleum Limited. ','READY',212.9925,192.7075,202.85
+'REG','DSL','Dost Steels Ltd. ','READY',13.65,11.65,12.65
+'REG','TREET','Treet Corporation Ltd. ','READY',43.1235,39.0165,41.07
+'REG','EFGH','EFG Hermes Pakistan Ltd. ','READY',70.875,64.125,67.5
+'REG','SMBL','Summit Bank Limited. ','READY',3.75,1.75,2.75
+'REG','DEL','Dawood Equities Ltd. ','READY',5.3,3.3,4.3
+'REG','ANLNV','Azgard Nine. (Non-Voting) ','READY',8,6,7
+'REG','AMBL','Apna Microfinance Bank Limited. ','READY',6.75,4.75,5.75
+'REG','JSGCL','JS Global Capital Limited. ','READY',44.1,39.9,42
+'REG','TCLTC','Treet Corporation Ltd.(PTCs) ','READY',16.15,14.15,15.15
+'REG','NETSOL','NetSol Technologies Ltd. ','READY',82.6875,74.8125,78.75
+'REG','WTL','Worldcall Telecom Ltd. ','READY',3.51,1.51,2.51
+'REG','DSIL','D. S. Industries Ltd. ','READY',3.59,1.59,2.59
+'REG','STPL','Siddiqsons Tin Plate Ltd. ','READY',28.854,26.106,27.48
+'REG','BOK','The Bank of Khyber. ','READY',16.47,14.47,15.47
+'REG','APL','Attock Petroleum Limited. ','READY',599.2875,542.2125,570.75
+'REG','BIPL','Bankislami Pakistan Ltd. ','READY',11.5,9.5,10.5
+'REG','PIL','PICIC Insurance Ltd.(XR) ','READY',3.94,1.94,2.94
+'REG','PSMC','Pak Suzuki Motors Co Ltd. ','READY',507.402,459.078,483.24
+'REG','CHCC','Cherat Cement Co. Ltd. ','READY',145.005,131.195,138.1
+'REG','BIFO','Bifo Industries Ltd.(XD) ','READY',333.9,302.1,318
+'REG','JOPP','Johnson & Philips (Pak) Ltd. ','READY',24.171,21.869,23.02
+'REG','HUMNL','Hum Network Limited. ','READY',10.2,8.2,9.2
+'REG','BTL','Bleesed Textile Ltd. ','READY',309.75,280.25,295
+'REG','SSGC','Sui Southern Gas Co Ltd. ','READY',38.3355,34.6845,36.51
+'REG','SAZEW','Sazgar Engineering Works Ltd. ','READY',222.5265,201.3335,211.93
+'REG','MTIL','Mian Textile Industries Ltd. ','READY',4.01,2.01,3.01
+'REG','PRET','Premium Textile Mills Ltd. ','READY',192.15,173.85,183
+'REG','NMFL','Nirala MSR Foods Limited ','READY',13.76,11.76,12.76
+'REG','FABL','Faysal Bank Limited. ','READY',27.342,24.738,26.04
+'REG','MLCF','Maple Leaf Cement Factory Ltd. ','READY',79.905,72.295,76.1
+'REG','JDWS','J. D. W. Sugar Mills Ltd. ','READY',357,323,340
+'REG','ILTM','Island Textile Mills Ltd. ','READY',1102.5,997.5,1050
+'REG','HUSI','Husein Industries ','READY',8.4,6.4,7.4
+'REG','KAPCO','Kot Addu Power Company. ','READY',64.0185,57.9215,60.97
+'REG','SINDM','Sindh Modaraba. ','READY',7.5,5.5,6.5
+'REG','DFSM','Dewan Farooque Spinning Mills Ltd. ','READY',4.06,2.06,3.06
+'REG','TSBLR','Trust Securities & Brokerage.(R) ','READY',1,.01,0
+'REG','UBL','United Bank Ltd. ','READY',197.5785,178.7615,188.17
+'REG','ISHT','Ishtiaq Textile Mills Ltd. ','READY',10.49,8.49,9.49
+'REG','JPGL','Japan Power Generation Ltd. ','READY',2.9,.9,1.9
+'REG','SBL','Samba Bank Limited. ','READY',8.41,6.41,7.41
+'REG','SLCPA','Security Leasing Corp (Pref) 9.1% ','READY',8,6,7
+'REG','PICT','Pakistan Int.Container Terminal. ','READY',349.755,316.445,333.1
+'REG','GLOT','Globe Textile Mills Ltd. ','READY',9.7,7.7,8.7
+'REG','GOEM','Globe Textile Mills (OE) Ltd. ','READY',42,40,40
+'REG','GUTM','Gulistan Textile Mills Ltd. ','READY',16,14,15
+'REG','HAJT','Hajra Textile Milla Ltd. ','READY',1.72,.01,.72
+'REG','ASIC','Asia Insurance Company Ltd. ','READY',19.6,17.6,18.6
+'REG','CENI','Century Insurance Co.Ltd. ','READY',27.405,24.795,26.1
+'REG','CSIL','Cresent Star Insurance Ltd. ','READY',5.32,3.32,4.32
+'REG','BCML','Babri Cotton Mills Ltd. ','READY',54.075,48.925,51.5
+'REG','CWSM','Chakwal Spinning Mills Limited. ','READY',4.56,2.56,3.56
+'REG','GVGL','Ghani Value Glass Limited. ','READY',29.274,26.486,27.88
+'REG','DATM','Data Textile Ltd. ','READY',1.5,.01,.5
+'REG','DKTM','Dewan Khalid Textile Mills Ltd. ','READY',4.25,2.25,3.25
+'REG','DWTM','Dewan Textile Mills Ltd. ','READY',7,5,6
+'REG','SSIC','Silver Star Insurance  Co. ','READY',7.34,5.34,6.34
+'REG','SICL','Standard Insurance Co.Ltd ','READY',46.2,41.8,44
+'REG','UVIC','Universal Insurance Company Ltd. ','READY',10.49,8.49,9.49
+'REG','AHTM','Ahmed Hassan Textile Mills Ltd. ','READY',33.075,29.925,31.5
+'REG','AATM','Ali Asghar Textile Mills Ltd. ','READY',3.07,1.07,2.07
+'REG','AQTM','Al-Qaim Textile Mills Ltd. ','READY',2.31,.31,1.31
+'REG','APOT','Apollo Textile Mills Ltd. ','READY',30.996,28.044,29.52
+'REG','PUDF','Prudential Stock Fund. ','READY',3.33,1.33,2.33
+'REG','BRR','B.R.R. Guardian Modaraba. ','READY',8.78,6.78,7.78
+'REG','CSM','Cresent Standard Modaraba. ','READY',3.62,1.62,2.62
+'REG','ORIXM','Orix Modaraba. ','READY',20.62,18.62,19.62
+'REG','PAKMI','First Pak Mod. ','READY',3.4,1.4,2.4
+'REG','TRSM','Trust Mod. ','READY',5.03,3.03,4.03
+'REG','CPAL','Capital Assets Leasing Corp. ','READY',10.89,8.89,9.89
+'REG','PDGH','Prudential Discount & Guarante ','READY',1.3,.01,.3
+'REG','SIBL','Security Investment Bank Ltd. ','READY',8.39,6.39,7.39
+'REG','GRYL','Grays Leasing Ltd. ','READY',5.88,3.88,4.88
+'REG','OLPL','Orix Leasing Pakistan Ltd. ','READY',42.525,38.475,40.5
+'REG','TRIBL','Trust Investment Bank Ltd. ','READY',2.6,.6,1.6
+'REG','AKBL','Askari Bank Limited. ','READY',21.0315,19.0285,20.03
+'REG','IGIBL','IGI Investment Bank Ltd. ','READY',4.22,2.22,3.22
+'REG','JUBS','Jubilee Spinning & Weaving Mil ','READY',6.92,4.92,5.92
+'REG','KHYT','Khyber Textile Mills Ltd. ','READY',95.991,86.849,91.42
+'REG','KTML','Kohinoor Textile Mills Ltd. ','READY',77.5005,70.1195,73.81
+'REG','ANL','Azgard Nine Limited ','READY',18.17,16.17,17.17
+'REG','MEHT','Mehmood Textile Mills Ltd. ','READY',357,323,340
+'REG','MFTM','Mohammed Farooq Textile Mills ','READY',4.49,2.49,3.49
+'REG','SFAT','Safa Textiles Ltd. ','READY',8.39,6.39,7.39
+'REG','STML','Shams Textile Mills Ltd. ','READY',45.675,41.325,43.5
+'REG','USMT','Usman Textile Mills Ltd. ','READY',1.51,.01,.51
+'REG','MSOT','Masood Textile Mills Ltd. ','READY',99.7395,90.2405,94.99
+'REG','PRWM','Prosperity Weaving Mills Ltd. ','READY',27.825,25.175,26.5
+'REG','SDIL','Saleem Denim Industries Ltd. ','READY',1.95,.01,.95
+'REG','HABSM','Habib Sugar Mills Ltd. ','READY',35.7,32.3,34
+'REG','GHNI','Ghandhara Industries Ltd. ','READY',843.402,763.078,803.24
+'REG','BPL','Burshane LPG (Pakistan) Limited. ','READY',51.765,46.835,49.3
+'REG','MUKT','Mukhtar Textile Mills Limited ','READY',2.09,.09,1.09
+'REG','SURC','Suraj Cotton Mills Ltd.(XDXB) ','READY',163.6845,148.0955,155.89
+'REG','ENGRO','Engro Corporation Limited. ','READY',322.917,292.163,307.54
+'REG','PKGI','Pakistan General Insurance Co.(XB) ','READY',8.85,6.85,7.85
+'REG','KOIL','Kohinoor Industries Ltd. ','READY',4.99,2.99,3.99
+'REG','PTC','Pakistan Telecommunication Co. ','READY',13.25,11.25,12.25
+'REG','BOP','Bank Of Punjab. ','READY',10.37,8.37,9.37
+'REG','RCML','Reliance Cotton Spinning Mills. ','READY',137.5605,124.4595,131.01
+'REG','FFC','Fauji Fertilizer Co. Ltd.(XD) ','READY',91.4655,82.7545,87.11
+'REG','PAKL','Pak Leather Crafts Ltd. ','READY',3.89,1.89,2.89
+'REG','IDSM','Ideal Spinning Mills Ltd. ','READY',9,7,8
+'REG','ESBL','Escorts Investment Bank Ltd. ','READY',43.6695,39.5105,41.59
+'REG','JGICL','Jubilee General Insurance Co.Ltd. ','READY',86.079,77.881,81.98
+'REG','KML','Kohinoor Mills Ltd. ','READY',38.808,35.112,36.96
+'REG','UPFL','Unilever Pakistan Foods Ltd. ','READY',9555,8645,9100
+'REG','UNIC','United Insurance Company. ','READY',17.99,15.99,16.99
+'REG','ADTM','Adil Textile Mills Limited. ','READY',9.9,7.9,8.9
+'REG','AZTM','Al-Azhar Textile Mills Ltd. ','READY',1.26,.01,.26
+'REG','JKSM','J. K. Spinning Mills Ltd. ','READY',22.575,20.425,21.5
+'REG','JDMT','Janana De Malucha Tex Mills. ','READY',94.5954,85.5864,90.0909
+'REG','KACM','Karim Cotton Mills Ltd. ','READY',17,15,16
+'REG','KSTM','Khalid Siraj Textile Mills Ltd ','READY',3.01,1.01,2.01
+'REG','KHSM','Khurshid Spinning Mills Ltd. ','READY',2,.01,1
+'REG','AZMT','Azmat Textile Mills Ltd. ','READY',10.95,8.95,9.95
+'REG','BILF','Bilal Fibres Ltd. ','READY',4.24,2.24,3.24
+'REG','DINT','Din Textile Mills Ltd. ','READY',104.7375,94.7625,99.75
+'REG','GLAT','Glamour Textile Mills Ltd ','READY',68.25,65,65
+'REG','GUSM','Gulistan Spinning Mills Ltd. ','READY',2.4,.4,1.4
+'REG','GSPM','Gulshan Spinning Mills Ltd. ','READY',2.08,.08,1.08
+'REG','SUCM','Sunshine Cotton Mills Ltd. ','READY',1.33,.01,.33
+'REG','TATM','Tata Textile Mills Ltd. ','READY',35.7735,32.3665,34.07
+'REG','KOHTM','Kohat Textile Mills Ltd. ','READY',20,18,19
+'REG','KOSM','Kohinoor Spinning Mills Ltd. ','READY',4.35,2.35,3.35
+'REG','MDTM','Mehr Dastgir Textile Mills Ltd. ','READY',2.5,.5,1.5
+'REG','NPSM','N.P. Spinning Mills Ltd. ','READY',12.6,10.6,11.6
+'REG','NATM','Nadeem Textile Mills Ltd. ','READY',36.078,32.642,34.36
+'REG','NCML','Nazir Cotton Mills Ltd. ','READY',4.06,2.06,3.06
+'REG','PRIB','Prudential Investment Bank ','READY',5,3,4
+'REG','RUBY','Ruby Textile Mills Ltd. ','READY',5.5,3.5,4.5
+'REG','SAIF','Saif Textile Mills Ltd. ','READY',20.05,18.05,19.05
+'REG','SJTM','Sajjad Textile Mills Ltd. ','READY',4.37,2.37,3.37
+'REG','SANE','Salman Noman Enterprises Ltd. ','READY',4.55,2.55,3.55
+'REG','SHCM','Shadman Cotton Mills Ltd. ','READY',5.73,3.73,4.73
+'REG','SZTM','Shahzad Textile Mills Ltd. ','READY',46.725,42.275,44.5
+'REG','EWIC','East West Ins. Co. Ltd. ','READY',148.134,134.026,141.08
+'REG','ATIL','Atlas Insurance Limited. ','READY',80.955,73.245,77.1
+'REG','SNBL','Soneri Bank Ltd. ','READY',13.75,11.75,12.75
+'REG','PGLC','Pak Gulf Leasing Co Ltd. ','READY',13,11,12
+'REG','FCCL','Fauji Cement Co Ltd. ','READY',29.9985,27.1415,28.57
+'REG','NSRM','The National Silk & Rayon Mills Ltd. ','READY',32.445,29.355,30.9
+'REG','REDCO','Redco Textile Ltd. ','READY',4.12,2.12,3.12
+'REG','ALNRS','Al-Noor Sugar Mills Ltd. ','READY',45.15,40.85,43
+'REG','FUDLM','First UDL Mod. ','READY',25.0005,22.6195,23.81
+'REG','ZAHID','Zahidjee Textile Mills Ltd. ','READY',15.05,13.05,14.05
+'REG','PINL','Premier Insurance Limited.(XB) ','READY',11.15,9.15,10.15
+'REG','STJT','Shahtaj Textile Ltd. ','READY',80.85,73.15,77
+'REG','OML','Olympia Mills Limited. ','READY',12.99,10.99,11.99
+'REG','DSML','Dar-es-Salam Textile Mills Ltd ','READY',7.45,5.45,6.45
+'REG','GIL','Good Luck Industries Limited. ','READY',521.472,471.808,496.64
+'REG','BERG','Berger Paints Pakistan Ltd. ','READY',166.698,150.822,158.76
+'REG','KOHC','Kohat Cement Co. Ltd. ','READY',163.695,148.105,155.9
+'REG','COTT','Colony Thal Textile Mills Ltd. ','READY',6.05,4.05,5.05
+'REG','IGIL','IGI Life Insurance Ltd. ','READY',87.78,79.42,83.6
+'REG','GWLC','Gharibwal Cement Ltd. ','READY',27.741,25.099,26.42
+'REG','KPUS','Khairpur Sugar Mills Ltd. ','READY',26.25,23.75,25
+'REG','RICL','Reliance Insurance. ','READY',9,7,8
+'REG','BGL','Baluchistan Glass Ltd. ','READY',10.27,8.27,9.27
+'REG','HAFL','Hafiz Limited. ','READY',171.4965,155.1635,163.33
+'REG','GENP','Genertech Pakistan Ltd. ','READY',1.89,.01,.89
+'REG','UCAPM','Unicap Modaraba. ','READY',2,.01,1
+'REG','HINOON','Highnoon Laboratories Ltd. ','READY',503.643,455.677,479.66
+'REG','PNSC','Pakistan National Shipping Co. ','READY',115.017,104.063,109.54
+'REG','NRL','National Refinary Ltd. ','READY',460.2045,416.3755,438.29
+'REG','JATM','J. A. Textile Mills Ltd. ','READY',6,4,5
+'REG','UNITY','Unity Foods Limited. ','READY',27.5835,24.9565,26.27
+'REG','FASM','Faisal Spinning Mills Ltd. ','READY',320.25,289.75,305
+'REG','FZCM','Fazal Cloth Mills Ltd. ','READY',157.0275,142.0725,149.55
+'REG','QUET','Quetta Textile Mills Ltd. ','READY',13,11,12
+'REG','GADT','Gadoon Textile Mills Ltd. ','READY',236.25,213.75,225
+'REG','AHCL','Arif Habib Corporation Ltd. ','READY',36.225,32.775,34.5
+'REG','PAKRI','Pakistan Reinsurance Comp. ','READY',44.352,40.128,42.24
+'REG','WYETH','Wyeth Pakistan Limited. ','READY',2141.9895,1937.9905,2039.99
+'REG','GLAXO','Glaxo SmithKline Pakistan Ltd. ','READY',198.009,179.151,188.58
+'REG','OTSU','Otsuka Pakistan Ltd. ','READY',299.25,270.75,285
+'REG','PPVC','Pakistan PVC ','READY',8.19,6.19,7.19
+'REG','NESTLE','Nestle Pakistan Ltd. ','READY',13230,11970,12600
+'REG','MFFL','Mitchells Fruit Farms Ltd. ','READY',294,266,280
+'REG','NATF','National Foods Ltd. ','READY',320.355,289.845,305.1
+'REG','QUICE','Quice Food Industries Ltd. ','READY',7.01,5.01,6.01
+'REG','ABSON','Abson Industries Limited ','READY',3.5,1.5,2.5
+'REG','DBSL','Dadabhoy Sack Ltd. ','READY',8,6,7
+'REG','PPP','Pakistan Paper Products Ltd. ','READY',97.3035,88.0365,92.67
+'REG','GOC','GOC (PAK) Limited. ','READY',64.47,58.33,61.4
+'REG','HACC','Hashimi Can Co Ltd. ','READY',9,7,8
+'REG','DCTL','Dadabhoy Construction Technology Ltd. ','READY',1.08,.01,.08
+'REG','RMPL','Rafhan Maize Products Ltd. ','READY',7978.95,7219.05,7599
+'REG','EMCO','EMCO Industries Ltd. ','READY',22.0395,19.9405,20.99
+'REG','FRCL','Frontier Ceramics Ltd. ','READY',19.97,17.97,18.97
+'REG','TGL','Tariq Glass. ','READY',122.3145,110.6655,116.49
+'REG','DCR','Dolmen City REIT. ','READY',14,12,13
+'REG','AKGL','Al-Khair Gadoon Ltd. ','READY',12,10,11
+'REG','AKDCL','AKD Capital Limited. ','READY',133.1715,120.4885,126.83
+'REG','FIMM','First Imrooz Mod. ','READY',220.5,199.5,210
+'REG','PSO','Pakistan State Oil Co Ltd. ','READY',316.281,286.159,301.22
+'REG','DSFL','Dewan Sulman Fibre Ltd. ','READY',1.88,.01,.88
+'REG','MCB','MCB Bank Limited. ','READY',224.9835,203.5565,214.27
+'REG','AGTL','Al-Ghazi Tractors Limited. ','READY',723.2715,654.3885,688.83
+'REG','JOVC','Javed Omer Vohra & Co.Ltd. ','READY',2.9,.9,1.9
+'REG','FML','Feroze1888 Mills Ltd. ','READY',60.984,55.176,58.08
+'REG','NCL','Nishat (Chunia) Ltd. ','READY',51.9015,46.9585,49.43
+'REG','BROT','Brothers Textile Mills Limited ','READY',5.2,3.2,4.2
+'REG','MWMP','Mandviwala Mauser Plastic Ind. Ltd. ','READY',4.51,2.51,3.51
+'REG','IDRT','Idrees Textile Mills Ltd. ','READY',16.2,14.2,15.2
+'REG','PIOC','Pioneer Cement Ltd. ','READY',75.894,68.666,72.28
+'REG','SEARL','The Searle Company Ltd. ','READY',389.3085,352.2315,370.77
+'REG','KCL','Karam Ceramics Mills Ltd. ','READY',22.995,20.805,21.9
+'REG','SPLC','Saudi Pak Leasing Co. ','READY',1.9,.01,.9
+'REG','TRIPF','Tri-Pack Films Ltd. ','READY',183.1935,165.7465,174.47
+'REG','AMSL','Al-Mal Securities & Services L ','READY',1.62,.01,.62
+'REG','MARI','Mari Petroleum Company Ltd. ','READY',1501.353,1358.367,1429.86
+'REG','SARC','Sardar Chemical IndustriesLtd. ','READY',13.31,11.31,12.31
+'REG','BAHL','Bank Al-Habib Ltd. ','READY',72.975,66.025,69.5
+'REG','SRSM','Sargodha Spinning Mills Ltd. ','READY',27.132,24.548,25.84
+'REG','SERT','Service Textile Mills Ltd. ','READY',16.99,14.99,15.99
+'REG','HUBC','Hub Power Company Limited. ','READY',104.055,94.145,99.1
+'REG','SUTM','Sunrays Textile Mills Ltd. ','READY',167.097,151.183,159.14
+'REG','FDIBL','First Dawood Investment Bank Ltd. ','READY',2.73,.73,1.73
+'REG','FHAM','First Habib Mod. ','READY',11.41,9.41,10.41
+'REG','LMSM','Landmark Spinning Mills Limite ','READY',6.95,4.95,5.95
+'REG','NAGC','Nagina Cotton Mills Ltd. ','READY',50.19,45.41,47.8
+'REG','786','786 Investment Limited ','READY',3.15,1.15,2.15
+'REG','ANNT','Annor Textile Mills Ltd. ','READY',12.38,10.38,11.38
+'REG','ASTM','Asim Textile Mills Ltd. ','READY',11.2,9.2,10.2
+'REG','AYTM','Ayesha Textile Mills Ltd. ','READY',456.3825,412.9175,434.65
+'REG','BIIC','Business & Industrial Insuranc ','READY',4.6,2.6,3.6
+'REG','EFUG','E. F. U. Gen Insurance Ltd. ','READY',153.0585,138.4815,145.77
+'REG','EWLA','East West Life Assurance Company. ','READY',23.0685,20.8715,21.97
+'REG','DMTX','D. M. Textile Mills Ltd. ','READY',43.0605,38.9595,41.01
+'REG','ELCM','Elahi Cotton Mills Ltd. ','READY',41.895,37.905,39.9
+'REG','ELSM','Ellcot Spinning Mills Ltd. ','READY',76.671,69.369,73.02
+'REG','FAEL','Fatima Enterprises Ltd. ','READY',15.3,13.3,14.3
+'REG','HCL','Hallmark Company Limited. ','READY',7.2,5.2,6.2
+'REG','SHNI','Shaheen Insurance Co Ltd. ','READY',6,4,5
+'REG','RUPL','Rupali Polyester Ltd. ','READY',34.671,31.369,33.02
+'REG','ISTM','Ishaq Textile Mills Ltd. ','READY',9.8,7.8,8.8
+'REG','DNCC','Dandot Cement Co. Ltd. ','READY',12.6,10.6,11.6
+'REG','TRPOL','Tri-Star Polyester Ltd. ','READY',22.974,20.786,21.88
+'REG','THALL','Thal Limited. ','READY',500.094,452.466,476.28
+'REG','ADAMS','Adam Sugar Mills Limited. ','READY',36.582,33.098,34.84
+'REG','ANSM','Ansari Sugar Mills Ltd.(XD) ','READY',24.6435,22.2965,23.47
+'REG','SLSOPP','Saleem Sugar Mills Ltd. (PP) ','READY',5.4,3.4,4.4
+'REG','CCM','Crescent Cotton Mills Limited. ','READY',39.69,35.91,37.8
+'REG','JSML','Jauharabad Sugar Mills Ltd.(XB) ','READY',44.142,39.938,42.04
+'REG','MRNS','Mehran Sugar Mills Ltd. ','READY',119.7105,108.3095,114.01
+'REG','MIRKS','Mirpurkhas Sugar Mills Ltd. ','READY',138.7575,125.5425,132.15
+'REG','NONS','Noon Sugar Mills Ltd. ','READY',61.9395,56.0405,58.99
+'REG','SKRS','Sakrand Sugar Mills Ltd. ','READY',28.266,25.574,26.92
+'REG','SHJS','Shahtaj Suger Mills Ltd.(XD) ','READY',140.6895,127.2905,133.99
+'REG','SASML','Sindh Abadgars Sugar Mills Ltd. ','READY',16.8,14.8,15.8
+'REG','SGPL','S. G. Power Ltd. ','READY',2.55,.55,1.55
+'REG','SEL','Sitara Enengy Ltd. ','READY',27.615,24.985,26.3
+'REG','ADOS','Ados Pakistan Limited. ','READY',54.0225,48.8775,51.45
+'REG','BCL','Bolan Casting Ltd. ','READY',141.3405,127.8795,134.61
+'REG','DKL','Drekkar Kingsway Ltd. ','READY',6.94,4.94,5.94
+'REG','INIL','International Industries Ltd. ','READY',317.2995,287.0805,302.19
+'REG','PECO','Pakistan Engineering Co Ltd. ','READY',227.5875,205.9125,216.75
+'REG','TREI','Transmission Engineering Ind Ltd. ','READY',2.46,.46,1.46
+'REG','AGIL','Agriautos Industries Co. Ltd.(XD) ','READY',325.584,294.576,310.08
+'REG','GHNL','Ghandhara Nissan Ltd. ','READY',232.6485,210.4915,221.57
+'REG','HCAR','Honda Atlas Cars (Pak) Ltd. ','READY',505.6275,457.4725,481.55
+'REG','SITC','Sitara Chemicals. ','READY',351.4035,317.9365,334.67
+'REG','PCAL','Pakistan Cables Ltd. ','READY',312.9,283.1,298
+'REG','PAEL','Pakistan Elektron Ltd. ','READY',49.1925,44.5075,46.85
+'REG','SFLL','SFL Limited. ','READY',151.2,136.8,144
+'REG','PIAB','Pakistan International Airline Corp Ltd ','READY',4.8,2.8,3.8
+'REG','ARPL','Archroma Pakistan Limited. ','READY',567,513,540
+'REG','MERIT','Merit Packaging Ltd. ','READY',22.0605,19.9595,21.01
+'REG','PKGS','Packages Ltd. ','READY',602.9625,545.5375,574.25
+'REG','EXTR','Extraction (Pakistan) ','READY',16.1,14.1,15.1
+'REG','FEROZ','Ferozsons Laboratories Ltd. ','READY',259.686,234.954,247.32
+'REG','SAPL','Sanofi-Aventis Pakistan Ltd. ','READY',1614.9,1461.1,1538
+'REG','LPGL','Leiner Pak Gelantine Limited. ','READY',20.13,18.13,19.13
+'REG','PGCL','Pakistan Gum & Chemicals Ltd. ','READY',146.2125,132.2875,139.25
+'REG','MUREB','Murree Brewery Company Ltd. ','READY',809.823,732.697,771.26
+'REG','FFL','Fauji Foods Limited. ','READY',28.539,25.821,27.18
+'REG','BPBL','Baluchistan Particle Board Ltd ','READY',5.06,3.06,4.06
+'REG','CEPB','Century Paper & Board Mills. ','READY',70.875,64.125,67.5
+'REG','CFL','Crescent Fibres Limited. ','READY',23.268,21.052,22.16
+'REG','REGAL','Regal Ceramics Ltd. ','READY',4.8,2.8,3.8
+'REG','STCL','Shabbir Tiles & Ceramis. ','READY',17.36,15.36,16.36
+'REG','ARPAK','Arpak International Investment. ','READY',20.99,18.99,19.99
+'REG','GLPL','Gillatte Pakistan Ltd. ','READY',262.5,237.5,250
+'REG','PHDL','Pakistan Hotels Developers Ltd. ','READY',93.2925,84.4075,88.85
+'REG','SHFA','Shifa Int. Hospital Ltd. ','READY',308.7,279.3,294
+'REG','UDPL','United Distributors Pakistan. ','READY',56.7,51.3,54
+'REG','FFLM','First Fidelity Leasing Mod. ','READY',6.5,4.5,5.5
+'REG','SHDT','Shadab Textile Mills Ltd. ','READY',53.55,48.45,51
+'REG','BFMOD','B.F.Modaraba. ','READY',9.49,7.49,8.49
+'REG','SAPT','Sapphire Textile Mills Ltd. ','READY',1749.405,1582.795,1666.1
+'REG','TSMF','Tri - Star Mutual Fund Ltd. ','READY',5.58,3.58,4.58
+'REG','FANM','First Al-Noor Mod. ','READY',4.11,2.11,3.11
+'REG','DOMF','Dominion Stock Fund ','READY',1.34,.01,.34
+'REG','GASF','Golden Arrow. ','READY',10.28,8.28,9.28
+'REG','DFML','Dewan Farooque Motors Limited ','READY',48.237,43.643,45.94
+'REG','SLYT','Sally Textile Mills Ltd. ','READY',11,9,10
+'REG','BEEM','Beema Pakistan Co. Ltd. ','READY',3.3,1.3,2.3
+'REG','BWCL','Bestway Cement Limited.(XD) ','READY',159.6525,144.4475,152.05
+'REG','MTL','Millat Tractor Ltd. ','READY',1438.017,1301.063,1369.54
+'REG','LINDE','Linde Pakistan Limited. ','READY',246.309,222.851,234.58
+'REG','SING','Singer Pakistan Ltd. ','READY',51.324,46.436,48.88
+'REG','SIEM','Siemens (Pak) Eng. Co. Ltd. ','READY',981.75,888.25,935
+'REG','PIAA','Pak International Airline Corp Ltd ','READY',6.17,4.17,5.17
+'REG','MOIL','Morafco Industries ','READY',11.25,9.25,10.25
+'REG','POML','Punjab Oil Mills Ltd. ','READY',294,266,280
+'REG','FIBLM','First IBL Modaraba. ','READY',5.35,3.35,4.35
+'REG','HKKT','Hakkim Textile Mills Limited ','READY',1.5,.01,.5
+'REG','MOHE','Mohib Exports Ltd. ','READY',1.15,.01,.15
+'REG','PMI','First Prudential Mod. ','READY',3.17,1.17,2.17
+'REG','FIM','First Investec Modarba ','READY',1.2,.01,.2
+'REG','DLL','Dawood Lawrencepur Ltd. ','READY',190.8813,172.7021,181.7917
+'REG','FSWL','Fateh Sports Wear Ltd. ','READY',60.7478,54.9623,57.855
+'REG','HATM','Hamid Textile Mills Limited ','READY',1.97,.01,.97
+'REG','TAJT','Taj Textile Mills Ltd. ','READY',1.41,.01,.41
+'REG','ASHT','Ashfaq Textile Mills Ltd. ','READY',10.34,8.34,9.34
+'REG','GAIL','Ghani Automobile Industries Ltd. ','READY',8.83,6.83,7.83
+'REG','SCHT','Schon Textile Ltd. ','READY',1.65,.01,.65
+'REG','TOWL','Towellers  Ltd. ','READY',91.0035,82.3365,86.67
+'REG','ZHCM','Zahur Cotton Mills ','READY',1.06,.01,.06
+'REG','REWM','Reliance Weaving Mills Ltd. ','READY',31.5,28.5,30
+'REG','SDOT','Sadoon Textile Industries Ltd. ','READY',1.85,.01,.85
+'REG','SMTM','Samin Textiles Ltd. ','READY',6.6,4.6,5.6
+'REG','SERF','Service Fabrics Ltd. ','READY',4.45,2.45,3.45
+'REG','KAKL','Kaisar Arts & Krafts Ltd. ','READY',1.55,.01,.55
+'REG','MUBT','Mubarak Textile Mills Ltd. ','READY',4.1,2.1,3.1
+'REG','NML','Nishat Mills Ltd. ','READY',166.6035,150.7365,158.67
+'REG','DWSM','Dewan Sugar Mills Ltd. ','READY',7.81,5.81,6.81
+'REG','IBFL','Ibrahim Fibre Limited. ','READY',64.554,58.406,61.48
+'REG','DBCI','Dadabhoy Cement Industries Ltd ','READY',4.12,2.12,3.12
+'REG','DADX','Dadex Eternit Ltd. ','READY',55.125,49.875,52.5
+'REG','POWER','Power cement Limited ','READY',10.34,8.34,9.34
+'REG','CJPL','Crescent Jute Products Ltd. ','READY',4.4,2.4,3.4
+'REG','TSBL','Trust Securities & Brokerage. ','READY',12.8,10.8,11.8
+'REG','SGABL','S.G. Allied Businesses Limited ','READY',132.3,119.7,126
+'REG','HSM','Husein Sugar Mills Limited. ','READY',30.555,27.645,29.1
+'REG','UBDL','United Brands Limited. ','READY',533.169,482.391,507.78
+'REG','SHEZ','Shezan International Ltd. ','READY',546.84,494.76,520.8
+'REG','FIL','Fateh Industries Ltd. ','READY',185.4195,167.7605,176.59
+'REG','SURAJ','Suraj Ghee Industries ','READY',11,9,10
+'REG','DAAG','Data Agro Limited ','READY',15.06,13.06,14.06
+'REG','ENGL','English Leasing ','READY',1.65,.01,.65
+'REG','PGF','PICIC Growth Fund. ','READY',29.736,26.904,28.32
+'REG','YOUW','Yousuf Weaving Mills Limited. ','READY',5.05,3.05,4.05
+'REG','PAKD','Pak Datacom Limited. ','READY',63.1575,57.1425,60.15
+'REG','HMB','Habib Metropolitn Bank Limited. ','READY',43.5225,39.3775,41.45
+'REG','SSML','Saritow Spinning Mills Ltd. ','READY',7.7,5.7,6.7
+'REG','RAVT','Ravi Textile Mills Ltd. ','READY',6.26,4.26,5.26
+'REG','ICCT','ICC Textile Limited ','READY',2.9,.9,1.9
+'REG','SEPCO','Southern Electric Power Co. Ltd. ','READY',3.21,1.21,2.21
+'REG','DGKC','D. G. Khan Cement Co. Ltd. ','READY',159.6315,144.4285,152.03
+'REG','DWAE','Dewan Automotive Engineering Ltd. ','READY',4.26,2.26,3.26
+'REG','FECTC','Fecto Cement Ltd. ','READY',52.0485,47.0915,49.57
+'REG','JLICL','Jubliee Life Insurance Co Ltd. ','READY',756,684,720
+'REG','ARUJ','Aruj Industries Limited. ','READY',30.807,27.873,29.34
+'REG','COST','Colony Sarhad Textile Mills Lt ','READY',1.5,.01,.5
+'REG','FTHM','Fateh Textile Mills Ltd. ','READY',77.7,70.3,74
+'REG','HAEL','Hala Enterprises Limited ','READY',11.09,9.09,10.09
+'REG','HAL','Habib-ADM Limited. ','READY',22.5015,20.3585,21.43
+'REG','MOON','Moonlite (Pak) Ltd. ','READY',23.1,20.9,22
+'REG','AASM','Al-Abid Silk Mills Limited. ','READY',4.49,2.49,3.49
+'REG','NAFL','National Fibres Ltd. ','READY',11,9,10
+'REG','NORS','Noor Silk Mills ','READY',40.95,37.05,39
+'REG','TBIL00910120','TBILL00910120 ','READY',2,.01,1
+'REG','MFL','Matco Foods Limited ','READY',31.3005,28.3195,29.81
+'REG','ITTEFAQ','Ittefaq Iron Industries Limited. ','READY',23.2365,21.0235,22.13
+'REG','TRPOLR','Tri-Star Polyester Ltd(R) ','READY',1,.01,0
+'REG','AGP','AGP Limited. ','READY',88.2,79.8,84
+'REG','MACTER','Macter International Limited. ','READY',278.25,251.75,265
+'REG','GSKCH','Glaxo SmithKline Healthcare Pak Ltd ','READY',489.993,443.327,466.66
+'REG','RPL','Roshan Packages Limited. ','READY',37.485,33.915,35.7
+'REG','ORM','Orient rental Modaraba ','READY',12.03,10.03,11.03
+'REG','PSX','Pakistan Stock Exchange Limited. ','READY',28.455,25.745,27.1
+'REG','HMM','Habib Metro Modaraba. ','READY',11.01,9.01,10.01
+'REG','TBIL01210180','TBILL01210180 ','READY',2,.01,1
+'REG','TBIL01810270','TBILL01810270 ','READY',2,.01,1
+'REG','TBIL02710365','TBILL02710365 ','READY',2,.01,1
+'REG','AKZO','Akzo Nobel Pakistan Limited. ','READY',237.1215,214.5385,225.83
+'REG','PICICCFO','PICIC Cash Fund ','READY',109.2783,98.8709,104.0746
+'REG','GGGL','Ghani Global Glass Limited. ','READY',15.62,13.62,14.62
+'REG','ASC','Al-Shaheer Corporation. ','READY',25.2,22.8,24
+'REG','MUGHAL','Mughal Iron & Steels Ind Ltd. ','READY',79.233,71.687,75.46
+'REG','ASLCPS','Aisha Steel Mills Convertible Cumul ','READY',45.15,40.85,43
+'REG','LPCL','Lafarge Pakistan Cement Limited. ','READY',22.26,20.14,21.2
+'REG','HTL','Hi-Tech Lubricants Limited.(XD) ','READY',112.56,101.84,107.2
+'REG','DOLCPS','Descon Oxychem Ltd 12% Non Voting. ','READY',17,15,16
+'REG','TPLP','TPL Properties Limited. ','READY',11.03,9.03,10.03
+'REG','PIM','Popular Islamic Madaraba ','READY',5,3,4
+'REG','FCEL','First Capital Equities Ltd. ','READY',12.3,10.3,11.3
+'REG','FTMM','First Treet Manufacturing Modaraba. ','READY',41.223,37.297,39.26
+'REG','MSOTPS','Masood Textile Mills Ltd.(PS) ','READY',9.03,7.03,8.03
+'REG','PELPS','Pakistan Elektron Ltd.(PS) ','READY',11,9,10
+'REG','SLL','SME Leasing Ltd. ','READY',4,2,3
+'REG','LOADS','Loads Limited. ','READY',41.916,37.924,39.92
+'REG','MUGHALR','Mughal Iron & Steels Ind Ltd.(R) ','READY',71.1375,64.3625,67.75
+'REG','FECM','First Elite Capital Mod. ','READY',3.89,1.89,2.89
+'REG','SUHJ','Sohail Jute Mills Ltd. ','READY',12.35,10.35,11.35
+'REG','AGSML','Abdullah Shaha Ghazi Suger Mills Ltd. ','READY',7.31,5.31,6.31
+'REG','BAFS','Baba Faried Sugar Mills Ltd. ','READY',42,38,40
+'REG','SLSO','Saleem Sugar Mills Ltd. (O) ','READY',8,6,7
+'REG','SLSOPVI','Saleem Sugar Mills Ltd. (P) 6% ','READY',58.695,53.105,55.9
+'REG','CHAS','Chashma Sugar Mills Ltd (XD) ','READY',41.1705,37.2495,39.21
+'REG','AEL','Arshad Energy Limited. ','READY',10.83,8.83,9.83
+'REG','KEL','K-Electric Limited. ','READY',7.31,5.31,6.31
+'REG','MZSM','Mirza Sugar Mills Ltd. ','READY',6.81,4.81,5.81
+'REG','PNGRS','Pangrio Sugar Mills Ltd. ','READY',6.42,4.42,5.42
+'REG','PMRS','Premier Sugar Mills & Distille ','READY',93.45,84.55,89
+'REG','SANSM','Sanghar Sugar Mills Ltd. ','READY',26.145,23.655,24.9
+'REG','SHSML','Shahmurad Sugar Mills Ltd.(XD) ','READY',59.8395,54.1405,56.99
+'REG','TSML','Tandliawala Sugar Mills Ltd. ','READY',162.6765,147.1835,154.93
+'REG','TICL','Thal Industries Corporation Ltd. ','READY',409.4895,370.4905,389.99
+'REG','HSPI','Huffaz Seamless Pipe Industrie. ','READY',29.4105,26.6095,28.01
+'REG','KSBP','KSB Pumps Co Ltd. ','READY',368.6865,333.5735,351.13
+'REG','QUSW','Quality Steel Works Ltd. ','READY',12,10,11
+'REG','JVDC','Javedan Corporation Ltd. ','READY',46.5045,42.0755,44.29
+'REG','ZELP','Zeal Pak Cement Factory Ltd. ','READY',1.44,.01,.44
+'REG','KHTC','Khyber Tobacco Co. Ltd. ','READY',807.7335,730.8065,769.27
+'REG','PAKT','Pakistan Tobacco Co Ltd. ','READY',2205.105,1995.095,2100.1
+'REG','KOHP','Kohinoor Power Co Ltd. ','READY',4.75,2.75,3.75
+'REG','PRL','Pakistan Refinery Ltd. ','READY',39.7845,35.9955,37.89
+'REG','CSAP','Crescent Steel & Allied Product. ','READY',138.5685,125.3715,131.97
+'REG','ABOT','Abbot Laboratories Pak Ltd. ','READY',693,627,660
+'REG','BUXL','Buxly Paints Ltd. ','READY',104.895,94.905,99.9
+'REG','ATBA','Atlas Battery Ltd. ','READY',413.7,374.3,394
+'REG','GTYR','General Tyre & Rubber Co. ','READY',203.847,184.433,194.14
+'REG','HINO','Hino Pak Motor Limeted. ','READY',1301.748,1177.772,1239.76
+'REG','INDU','Indus Motor Company Ltd. ','READY',1837.5,1662.5,1750
+'FUT','TBIL00910120','TBILL00910120 ','READY',2,.01,1
+'FUT','BYCO-MAR','BYCO Petroleum Pak Ltd. ','READY',16.3,14.3,15.3
+'FUT','LOADS-MAR','Loads Limited. ','READY',42.105,38.095,40.1
+'FUT','MUGHAL-MAR','Mughal Iron & Steels Ind Ltd. ','READY',79.2645,71.7155,75.49
+'FUT','PRL-MAR','Pakistan Refinery Ltd. ','READY',40.089,36.271,38.18
+'FUT','ASL-MAR','Aisha Steel Mills Limited. ','READY',21.9975,19.9025,20.95
+'FUT','DOL-MAR','Descon Oxychem Ltd.. ','READY',19.74,17.74,18.74
+'FUT','EPCL-MAR','Engro Polymer & Chemicals Ltd. ','READY',31.731,28.709,30.22
+'FUT','HMB-MAR','Habib Metropolitn Bank Limited. ','READY',44.4465,40.2135,42.33
+'FUT','INIL-MAR','International Industries Ltd. ','READY',317.0475,286.8525,301.95
+'FUT','KOHC-MAR','Kohat Cement Co. Ltd. ','READY',164.3355,148.6845,156.51
+'FUT','LOTCHEM-MAR','Lotte Chemical Pakistan Ltd. ','READY',9.92,7.92,8.92
+'FUT','PIBTL-MAR','Pakistan Intl. Bulk Terminal Ltd. ','READY',18.43,16.43,17.43
+'FUT','STCL-MAR','Shabbir Tiles & Ceramis. ','READY',17.51,15.51,16.51
+'FUT','STPL-MAR','Siddiqsons Tin Plate Ltd. ','READY',28.9275,26.1725,27.55
+'FUT','HMB-MARB','Habib Metropolitn Bank Limited. ','READY',40.7085,36.8315,38.77
+'FUT','OGDC-MARB','Oil & Gas Development Company Ltd. ','READY',171.255,154.945,163.1
+'FUT','TBIL01210180','TBILL01210180 ','READY',2,.01,1
+'FUT','TBIL01810270','TBILL01810270 ','READY',2,.01,1
+'FUT','TBIL02710365','TBILL02710365 ','READY',2,.01,1
+'FUT','ISL-MAR','International Steels Limited. ','READY',124.761,112.879,118.82
+'FUT','POWER-MAR','Power cement Limited ','READY',10.32,8.32,9.32
+'FUT','TRG-MAR','TRG Pakistan Ltd. ','READY',39.3435,35.5965,37.47
+'FUT','TREET-MAR','Treet Corporation Ltd. ','READY',43.26,39.14,41.2
+'FUT','HUBC-MAR','Hub Power Company Limited. ','READY',104.4225,94.4775,99.45
+'FUT','SNGP-MAR','Sui Northern Gas Pipe Line Ltd. ','READY',124.8555,112.9645,118.91
+'FUT','MCB-MAR','MCB Bank Limited. ','READY',224.364,202.996,213.68
+'FUT','NML-MAR','Nishat Mills Ltd. ','READY',167.0865,151.1735,159.13
+'FUT','PTC-MAR','Pakistan Telecommunication Co. ','READY',13.35,11.35,12.35
+'FUT','FFBL-MAR','Fauji Fertilizer Bin Qasim Ltd. ','READY',38.0625,34.4375,36.25
+'FUT','PSO-MAR','Pakistan State Oil Co Ltd. ','READY',317.751,287.489,302.62
+'FUT','FFC-MAR','Fauji Fertilizer Co. Ltd. ','READY',92.0325,83.2675,87.65
+'FUT','DGKC-MAR','D. G. Khan Cement Co. Ltd. ','READY',159.9465,144.7135,152.33
+'FUT','POL-MAR','Pakistan Oilfields Limited. ','READY',628.425,568.575,598.5
+'FUT','KAPCO-MAR','Kot Addu Power Company. ','READY',63.924,57.836,60.88
+'FUT','PIOC-MAR','Pioneer Cement Ltd. ','READY',76.251,68.989,72.62
+'FUT','BAFL-MAR','Bank Alfalah Ltd. ','READY',49.7175,44.9825,47.35
+'FUT','BAFL-MARB','Bank Alfalah Ltd. ','READY',48.321,43.719,46.02
+'FUT','MLCF-MAR','Maple Leaf Cement Factory Ltd. ','READY',78.7815,71.2785,75.03
+'FUT','LUCK-MAR','Lucky Cement Limited. ','READY',684.8625,619.6375,652.25
+'FUT','BOP-MAR','Bank Of Punjab. ','READY',10.4,8.4,9.4
+'FUT','WTL-MAR','Worldcall Telecom Ltd. ','READY',3.52,1.52,2.52
+'FUT','AKBL-MAR','Askari Bank Limited. ','READY',21.336,19.304,20.32
+'FUT','PPL-MAR','Pakistan Petroleum Limited. ','READY',214.284,193.876,204.08
+'FUT','OGDC-MAR','Oil & Gas Development Company Ltd. ','READY',172.956,156.484,164.72
+'FUT','SSGC-MAR','Sui Southern Gas Co Ltd. ','READY',38.5035,34.8365,36.67
+'FUT','NBP-MAR','National Bank Of Pakistan. ','READY',50.4,45.6,48
+'FUT','HUBC-MARB','Hub Power Company Limited. ','READY',102.9,93.1,98
+'FUT','ATRL-MAR','Attock Refinery Limited. ','READY',273.147,247.133,260.14
+'FUT','FCCL-MAR','Fauji Cement Co Ltd. ','READY',29.946,27.094,28.52
+'FUT','UBL-MAR','United Bank Ltd. ','READY',198.1875,179.3125,188.75
+'FUT','NRL-MAR','National Refinary Ltd. ','READY',463.785,419.615,441.7
+'FUT','HBL-MAR','Habib Bank Limited ','READY',223.23,201.97,212.6
+'FUT','UBL-MARB','United Bank Ltd. ','READY',194.25,175.75,185
+'FUT','ENGRO-MAR','Engro Corporation Limited. ','READY',323.883,293.037,308.46
+'FUT','AICL-MAR','Adamjee Insurance Co. Ltd. ','READY',59.8395,54.1405,56.99
+'FUT','NCL-MAR','Nishat (Chunia) Ltd. ','READY',52.122,47.158,49.64
+'FUT','BAHL-MAR','Bank Al-Habib Ltd. ','READY',70.392,63.688,67.04
+'FUT','PAEL-MAR','Pakistan Elektron Ltd. ','READY',49.4655,44.7545,47.11
+'FUT','CHCC-MAR','Cherat Cement Co. Ltd. ','READY',144.8265,131.0335,137.93
+'FUT','EFERT-MAR','Engro Fertilizers Limited. ','READY',69.825,63.175,66.5
+'FUT','SEARL-MAR','The Searle Company Ltd. ','READY',391.4505,354.1695,372.81
+'FUT','GATM-MAR','Gul Ahmed Textile Mills Ltd. ','READY',41.034,37.126,39.08
+'FUT','KEL-MAR','K-Electric Limited. ','READY',7.36,5.36,6.36
+'FUT','EFOODS-MAR','Engro Foods Limited. ','READY',97.482,88.198,92.84
+'FUT','TBIL00010007','TBILL00010007 ','READY',2,.01,1
+'FUT','TBIL00080015','TBILL00080015 ','READY',2,.01,1
+'FUT','TBIL00160030','TBILL00160030 ','READY',2,.01,1
+'FUT','TBIL00310060','TBILL00310060 ','READY',2,.01,1
+'FUT','TBIL00610090','TBILL00610090 ','READY',2,.01,1
+'ODL','GSKCH','Glaxo SmithKline Healthcare Pak Ltd ','READY',489.993,443.327,0
+'ODL','RPL','Roshan Packages Limited. ','READY',37.485,33.915,0
+'ODL','ORM','Orient rental Modaraba ','READY',12.03,10.03,0
+'ODL','PSX','Pakistan Stock Exchange Limited. ','READY',28.455,25.745,0
+'ODL','HMM','Habib Metro Modaraba. ','READY',11.01,9.01,0
+'ODL','TBIL01210180','TBILL01210180 ','READY',2,.01,0
+'ODL','TBIL01810270','TBILL01810270 ','READY',2,.01,0
+'ODL','TBIL02710365','TBILL02710365 ','READY',2,.01,0
+'ODL','AKZO','Akzo Nobel Pakistan Limited. ','READY',237.1215,214.5385,0
+'ODL','GGGL','Ghani Global Glass Limited. ','READY',15.62,13.62,0
+'ODL','ASC','Al-Shaheer Corporation. ','READY',25.2,22.8,0
+'ODL','MUGHAL','Mughal Iron & Steels Ind Ltd. ','READY',79.233,71.687,0
+'ODL','ASLCPS','Aisha Steel Mills Convertible Cumul ','READY',45.15,40.85,0
+'ODL','LPCL','Lafarge Pakistan Cement Limited. ','READY',22.26,20.14,0
+'ODL','HTL','Hi-Tech Lubricants Limited.(XD) ','READY',112.56,101.84,0
+'ODL','DOLCPS','Descon Oxychem Ltd 12% Non Voting. ','READY',17,15,0
+'ODL','TPLP','TPL Properties Limited. ','READY',11.03,9.03,0
+'ODL','PIM','Popular Islamic Madaraba ','READY',5,3,0
+'ODL','FCEL','First Capital Equities Ltd. ','READY',12.3,10.3,0
+'ODL','FTMM','First Treet Manufacturing Modaraba. ','READY',41.223,37.297,0
+'ODL','MSOTPS','Masood Textile Mills Ltd.(PS) ','READY',9.03,7.03,0
+'ODL','PELPS','Pakistan Elektron Ltd.(PS) ','READY',11,9,0
+'ODL','SLL','SME Leasing Ltd. ','READY',4,2,0
+'ODL','LOADS','Loads Limited. ','READY',41.916,37.924,0
+'ODL','MUGHALR','Mughal Iron & Steels Ind Ltd.(R) ','READY',71.1375,64.3625,0
+'ODL','MDTL','Media Times Limited. ','READY',2.6,.6,0
+'ODL','FPRM','First Paramount Mod. ','READY',7.65,5.65,0
+'ODL','SEPL','Security Papers Ltd. ','READY',128.7405,116.4795,0
+'ODL','AGL','Agritech Limited ','READY',9.79,7.79,0
+'ODL','AMTEX','Amtex Limited. ','READY',2.43,.43,0
+'ODL','ISIL','Ismail Industries Ltd. ','READY',400.05,361.95,0
+'ODL','LOTCHEM','Lotte Chemical Pakistan Ltd. ','READY',9.86,7.86,0
+'ODL','FPJM','First Punjab Mod.(XD) ','READY',6,4,0
+'ODL','POL','Pakistan Oilfields Limited. ','READY',643.2615,581.9985,0
+'ODL','IDYM','Indus Dyeing & Manufacturing. ','READY',467.25,422.75,0
+'ODL','SYS','Systems Limited. ','READY',92.4,83.6,0
+'ODL','PKGP','Pakgen Power Limited. ','READY',22.0605,19.9595,0
+'ODL','KASBCFO','KASB Cash Fund ','READY',110.73909,100.19251,0
+'ODL','SLCL','Security Leasing Corp. ','READY',12.62,10.62,0
+'ODL','JSCFO','JS Cash Fund ','READY',110.299245,99.794555,0
+'ODL','MCFO','Meezan Cash Fund ','READY',53.03151,47.98089,0
+'ODL','MCBCMO','MCB Cash Managment Optimizer Fund ','READY',109.30605,98.89595,0
+'ODL','PACMF','Pakistan Cash Managment Fund ','READY',54.43599,49.25161,0
+'ODL','AGIC','Askari Gen Insurance Co. ','READY',29.82,26.98,0
+'ODL','ASCFO','Askari Sovereign Cash Fund ','READY',108.81528,98.45192,0
+'ODL','AGLNCPS','Agritech Ltd Non-Voting (Pref) Class A ','READY',3,1,0
+'ODL','UBLLPFO','UBL Liquidity Plus Fund ','READY',109.53894,99.10666,0
+'ODL','NEXT','Next Capital Limited. ','READY',10.14,8.14,0
+'ODL','ASL','Aisha Steel Mills Limited. ','READY',22.0395,19.9405,0
+'ODL','ASLPS','Aisha Steel Mills Convertibl  Pre-Sh ','READY',22.05,19.95,0
+'ODL','TPL','TPL CORP Limited. ','READY',9.15,7.15,0
+'ODL','DMTM','Dewan Mushtaq Textile Mills Ltd. ','READY',7.7,5.7,0
+'ODL','ICI','ICI Pakistan Limited. ','READY',805.8855,729.1345,0
+'ODL','GAMON','Gammon Pak. ','READY',21.1575,19.1425,0
+'ODL','EFUL','EFU Life Assurance Ltd. ','READY',276.738,250.382,0
+'ODL','PSYL','Pakistan Synthentics Ltd. ','READY',23.1,20.9,0
+'ODL','KOHE','Kohinoor Energy Ltd.(XD) ','READY',41.3385,37.4015,0
+'ODL','BAPL','Bawany Air Products Ltd. ','READY',9.66,7.66,0
+'ODL','IGIIL','IGI Insurance Limited.(XD) ','READY',324.975,294.025,0
+'ODL','CRTM','Crescent Textile Mills Ltd. ','READY',33.579,30.381,0
+'ODL','FATIMA','Fatima Fertilizer Co Ltd. ','READY',32.7075,29.5925,0
+'ODL','ATRL','Attock Refinery Limited. ','READY',271.7085,245.8315,0
+'ODL','EFOODS','Engro Foods Limited. ','READY',97.545,88.255,0
+'ODL','PSEL','Pakistan Services Limited. ','READY',1039.5,940.5,0
+'ODL','MODAM','Modarba Al-Mali. ','READY',4.98,2.98,0
+'ODL','TPLI','TPL Insurance Ltd. ','READY',21,19,0
+'ODL','FMMFO','Faysal Money Market Fund ','READY',109.998,99.522,0
+'ODL','LPL','LALPIR Power Limited. ','READY',22.05,19.95,0
+'ODL','EPQL','Engro Powergen Qadirpur Ltd ','READY',36.7395,33.2405,0
+'ODL','UBLISFO','UBL Islamic Sovereign Fund ','READY',105.536235,95.485165,0
+'ODL','CTM','Colony Textile Mills Ltd. ','READY',5.06,3.06,0
+'ODL','AVN','Avanceon Limited. ','READY',52.3005,47.3195,0
+'ODL','HASCOL','Hascol Petroleum Ltd. ','READY',293.328,265.392,0
+'ODL','EFERT','Engro Fertilizers Limited. ','READY',72.933,65.987,0
+'ODL','PIBTL','Pakistan Intl. Bulk Terminal Ltd. ','READY',18.31,16.31,0
+'ODL','SPWL','Saif Power Ltd. ','READY',30.03,27.17,0
+'ODL','UBLSIFO','UBL Saving Income Fund ','READY',108.93771,98.56269,0
+'ODL','UBLGSFO','UBL Government Securities Fund ','READY',110.92704,100.36256,0
+'ODL','TBIL00010007','TBILL00010007 ','READY',2,.01,0
+'ODL','TBIL00080015','TBILL00080015 ','READY',2,.01,0
+'ODL','TBIL00160030','TBILL00160030 ','READY',2,.01,0
+'ODL','TBIL00310060','TBILL00310060 ','READY',2,.01,0
+'ODL','TBIL00610090','TBILL00610090 ','READY',2,.01,0
+'ODL','TBIL00910120','TBILL00910120 ','READY',2,.01,0
+'ODL','MFL','Matco Foods Limited ','READY',31.3005,28.3195,0
+'ODL','ITTEFAQ','Ittefaq Iron Industries Limited. ','READY',23.2365,21.0235,0
+'ODL','TRPOLR','Tri-Star Polyester Ltd(R) ','READY',1,.01,0
+'ODL','AGP','AGP Limited. ','READY',88.2,79.8,0
+'ODL','MACTER','Macter International Limited. ','READY',278.25,251.75,0
+'ODL','INMF','Investec Mutual Fund ','READY',1.17,.01,0
+'ODL','BAFL','Bank Alfalah Ltd. ','READY',49.5075,44.7925,0
+'ODL','IBLHL','IBL HealthCare Limited. ','READY',95.0985,86.0415,0
+'ODL','DOL','Descon Oxychem Ltd.. ','READY',19.63,17.63,0
+'ODL','NAFAGSLFO','NAFA Government Securities Liquid Fund ','READY',11.5159,9.5159,0
+'ODL','ADMM','Artistic Denim Mills Limited. ','READY',84,76,0
+'ODL','SPEL','Synthetic Products Enterprises Ltd. ','READY',57.204,51.756,0
+'ODL','EPCL','Engro Polymer & Chemicals Ltd. ','READY',32.4345,29.3455,0
+'ODL','FCIBL','First Credit & Investment Bank Ltd. ','READY',5.2,3.2,0
+'ODL','BMAECFO','BMA Empress Cash Fund. ','READY',11.4371,9.4371,0
+'ODL','AWTX','Allawasaya Tex. & Finishing Mills. ','READY',396.9,359.1,0
+'ODL','NCPL','Nishat Chunian Power Ltd. ','READY',30.975,28.025,0
+'ODL','GGL','Ghani Gases Limited. ','READY',20.95,18.95,0
+'ODL','DAWH','Dawood Hercules Corporation Ltd. ','READY',126.7665,114.6935,0
+'ODL','HICL','Habib Insurance Co Ltd. ','READY',15.39,13.39,0
+'ODL','HBL','Habib Bank Limited. ','READY',223.503,202.217,0
+'ODL','KASBM','KASB Modaraba. ','READY',2.81,.81,0
+'ODL','LEUL','Leather Up Ltd. ','READY',21.42,19.38,0
+'ODL','FLYNG','Flying Cement Company Ltd. ','READY',15.85,13.85,0
+'ODL','ATLH','Atlas Honda Limited. ','READY',562.8,509.2,0
+'ODL','HADC','Hayderi Construction. ','READY',17.51,15.51,0
+'ODL','ICL','Ittehad Chemical Ltd. ','READY',36.729,33.231,0
+'ODL','NRSL','Nimir Resins Limited. ','READY',8.74,6.74,0
+'ODL','GHGL','Ghani Glass Ltd.(XR) ','READY',72.954,66.006,0
+'ODL','FCONM','First Constellation Modaraba. ','READY',2.19,.19,0
+'ODL','THCCL','Thatta Cement Company Ltd. ','READY',24.7275,22.3725,0
+'ODL','ALTN','Altern Energy Ltd. ','READY',43.05,38.95,0
+'ODL','INKL','International Knitwear Ltd. ','READY',12.95,10.95,0
+'ODL','FTSM','First Tri-Star Mod. ','READY',13.5389,11.5389,0
+'ODL','FRSM','Faran Sugar Mills Ltd. ','READY',86.1525,77.9475,0
+'ODL','CYAN','Cyan Limited. ','READY',42,38,0
+'ODL','ICIBL','Invest Capital Investment Bank Ltd. ','READY',2.7,.7,0
+'ODL','WAHN','Wah Noble Chemicals Ltd. ','READY',262.878,237.842,0
+'ODL','BATA','Bata Pakistan Ltd. ','READY',2923.2,2644.8,0
+'ODL','AICL','Adamjee Insurance Co. Ltd. ','READY',59.3775,53.7225,0
+'ODL','CPPL','Cherat Packaging Limited.(XD) ','READY',190.596,172.444,0
+'ODL','FEM','First Equity Mod. ','READY',5,3,0
+'ODL','PMPK','Philip Morris (Pakistan)Ltd. ','READY',3307.5,2992.5,0
+'ODL','CLOV','Clover Pakistan Limited. ','READY',88.7145,80.2655,0
+'ODL','IMSL','Imperial Sugar Limited. ','READY',24.339,22.021,0
+'ODL','HWQS','Haseeb Waqas Sugar Mills Limit ','READY',9.15,7.15,0
+'ODL','PASL','Pervez Ahmed Securities Ltd. ','READY',1.96,.01,0
+'ODL','GFIL','Ghazi Fabrics International Ltd. ','READY',4.6,2.6,0
+'ODL','SSOM','S .S . Oil Mills Ltd. ','READY',48.741,44.099,0
+'ODL','FFBL','Fauji Fertilizer Bin Qasim Ltd. ','READY',39.312,35.568,0
+'ODL','MCBAH','MCB-Arif Habib Savings & Invest Ltd ','READY',25.0005,22.6195,0
+'ODL','ABL','Allied Bank Ltd. ','READY',98.385,89.015,0
+'ODL','BWHL','Baluchistan Wheels Ltd. ','READY',127.7325,115.5675,0
+'ODL','ECOP','ECOPAK Limited. ','READY',22.344,20.216,0
+'ODL','SPL','Sitara Peroxide Limited ','READY',19.33,17.33,0
+'ODL','SFL','Sapphire Fibres Mills Ltd. ','READY',945,855,0
+'ODL','MSCL','Metropolitan Steel Corporation ','READY',19.65,17.65,0
+'ODL','PASM','Paramount Spinning Mills. ','READY',3.02,1.02,0
+'ODL','SMCPL','Safe Mix Concrete Ltd. ','READY',9.72,7.72,0
+'ODL','TSPL','Tri -Star Power Ltd. ','READY',6.99,4.99,0
+'ODL','JVDCPS','Javedan Corporation Ltd-Non Voting ','READY',24.15,21.85,0
+'ODL','BHAT','Bhanero Textile Mills Ltd. ','READY',895.23,809.97,0
+'ODL','BIPLS','BIPL Securities Ltd. ','READY',8,6,0
+'ODL','LUCK','Lucky Cement Limited. ','READY',685.0515,619.8085,0
+'ODL','FFLNV','Fauji Foods Non Voting. ','READY',27.846,25.194,0
+'ODL','BNWM','Bannu Woollen Mills Limited. ','READY',57.9075,52.3925,0
+'ODL','TELE','Telecard Ltd. ','READY',3.02,1.02,0
+'ODL','NPL','Nishat Power Limited. ','READY',34.3245,31.0555,0
+'ODL','ISL','International Steels Limited. ','READY',125.9475,113.9525,0
+'ODL','STPL','Siddiqsons Tin Plate Ltd. ','READY',28.854,26.106,0
+'ODL','BOK','The Bank of Khyber. ','READY',16.47,14.47,0
+'ODL','APL','Attock Petroleum Limited. ','READY',599.2875,542.2125,0
+'ODL','BIPL','Bankislami Pakistan Ltd. ','READY',11.5,9.5,0
+'ODL','PIL','PICIC Insurance Ltd.(XR) ','READY',3.94,1.94,0
+'ODL','PSMC','Pak Suzuki Motors Co Ltd. ','READY',507.402,459.078,0
+'ODL','CHCC','Cherat Cement Co. Ltd. ','READY',145.005,131.195,0
+'ODL','BIFO','Bifo Industries Ltd.(XD) ','READY',333.9,302.1,0
+'ODL','JOPP','Johnson & Philips (Pak) Ltd. ','READY',24.171,21.869,0
+'ODL','HUMNL','Hum Network Limited. ','READY',10.2,8.2,0
+'ODL','BTL','Bleesed Textile Ltd. ','READY',309.75,280.25,0
+'ODL','SSGC','Sui Southern Gas Co Ltd. ','READY',38.3355,34.6845,0
+'ODL','SAZEW','Sazgar Engineering Works Ltd. ','READY',222.5265,201.3335,0
+'ODL','MTIL','Mian Textile Industries Ltd. ','READY',4.01,2.01,0
+'ODL','PRET','Premium Textile Mills Ltd. ','READY',192.15,173.85,0
+'ODL','NMFL','Nirala MSR Foods Limited ','READY',13.76,11.76,0
+'ODL','FABL','Faysal Bank Limited. ','READY',27.342,24.738,0
+'ODL','MLCF','Maple Leaf Cement Factory Ltd. ','READY',79.905,72.295,0
+'ODL','JDWS','J. D. W. Sugar Mills Ltd. ','READY',357,323,0
+'ODL','ILTM','Island Textile Mills Ltd. ','READY',1102.5,997.5,0
+'ODL','HUSI','Husein Industries ','READY',8.4,6.4,0
+'ODL','KAPCO','Kot Addu Power Company. ','READY',64.0185,57.9215,0
+'ODL','SINDM','Sindh Modaraba. ','READY',7.5,5.5,0
+'ODL','DFSM','Dewan Farooque Spinning Mills Ltd. ','READY',4.06,2.06,0
+'ODL','TSBLR','Trust Securities & Brokerage.(R) ','READY',1,.01,0
+'ODL','UBL','United Bank Ltd. ','READY',197.5785,178.7615,0
+'ODL','ISHT','Ishtiaq Textile Mills Ltd. ','READY',10.49,8.49,0
+'ODL','JPGL','Japan Power Generation Ltd. ','READY',2.9,.9,0
+'ODL','SBL','Samba Bank Limited. ','READY',8.41,6.41,0
+'ODL','SLCPA','Security Leasing Corp (Pref) 9.1% ','READY',8,6,0
+'ODL','PICT','Pakistan Int.Container Terminal. ','READY',349.755,316.445,0
+'ODL','SILK','Silk Bank Limited. ','READY',2.4,.4,0
+'ODL','GATM','Gul Ahmed Textile Mills Ltd. ','READY',40.7505,36.8695,0
+'ODL','SCL','Shield Corporation Ltd. ','READY',320.25,289.75,0
+'ODL','NINA','M/S Nina Industries Ltd. ','READY',2.01,.01,0
+'ODL','FNEL','First National Equities Limited. ','READY',6.31,4.31,0
+'ODL','JSCL','Jahangir Siddiqui & Company Ltd. ','READY',20.93,18.93,0
+'ODL','AABS','Al-Abbas Sugar Mills Ltd.(XD) ','READY',195.0585,176.4815,0
+'ODL','SHCI','Shaffi Chemical Ind. Ltd. ','READY',7.49,5.49,0
+'ODL','SNAI','Sana Industries Ltd. ','READY',41.412,37.468,0
+'ODL','GATI','Gatron (Industries) Ltd. ','READY',185.829,168.131,0
+'ODL','DCL','Dewan Cement Limited. ','READY',27.9615,25.2985,0
+'ODL','ARM','Allied Rental Modaraba. ','READY',20,18,0
+'ODL','FNBM','First National Bank Modaraba. ','READY',3.19,1.19,0
+'ODL','AHL','Arif Habib Limited. ','READY',51.513,46.607,0
+'ODL','EXIDE','Exide Pakistan Ltd. ','READY',413.7,374.3,0
+'ODL','BELA','Bela Automotives Ltd. ','READY',2.3,.3,0
+'ODL','HIRAT','Hira Textile Mills Ltd. ','READY',9.5,7.5,0
+'ODL','PACE','Pace (Pakistan) Ltd. ','READY',5.21,3.21,0
+'ODL','DIIL','Dimond Industries Ltd. ','READY',25.872,23.408,0
+'ODL','JSBL','JS Bank Limited. ','READY',9.14,7.14,0
+'ODL','MEBL','Meezan Bank Limited. ','READY',81.9,74.1,0
+'ODL','FDMF','First Dawood Mutual Fund. ','READY',8,6,0
+'ODL','SHEL','Shell Pakistan Ltd. ','READY',343.497,310.783,0
+'ODL','SCBPL','Standard Chartered Bank (Pak) Ltd. ','READY',25.3995,22.9805,0
+'ODL','FCSC','First Capital Sec.Corp. Ltd. ','READY',3.2,1.2,0
+'ODL','JSIL','JS Investments Limited. ','READY',11,9,0
+'ODL','NICL','Nimir Industrial Chemical Ltd. ','READY',62.4645,56.5155,0
+'ODL','CHBL','Chenab Limited ','READY',3.41,1.41,0
+'ODL','COLG','Colgate Palmolive (Pak) Ltd. ','READY',3045,2755,0
+'ODL','MQTM','Maqbool Textile Mills Ltd. ','READY',30.702,27.778,0
+'ODL','ZTL','Zephyr Textile Limited. ','READY',11.25,9.25,0
+'ODL','HMIM','Haji Mohammed Ismail Mills Lim ','READY',9.75,7.75,0
+'ODL','CECL','The Climax Engineering Co. Ltd. ','READY',67.6515,61.2085,0
+'ODL','IGIBL','IGI Investment Bank Ltd. ','READY',4.22,2.22,0
+'ODL','JUBS','Jubilee Spinning & Weaving Mil ','READY',6.92,4.92,0
+'ODL','KHYT','Khyber Textile Mills Ltd. ','READY',95.991,86.849,0
+'ODL','KTML','Kohinoor Textile Mills Ltd. ','READY',77.5005,70.1195,0
+'ODL','ANL','Azgard Nine Limited ','READY',18.17,16.17,0
+'ODL','MEHT','Mehmood Textile Mills Ltd. ','READY',357,323,0
+'ODL','MFTM','Mohammed Farooq Textile Mills ','READY',4.49,2.49,0
+'ODL','SFAT','Safa Textiles Ltd. ','READY',8.39,6.39,0
+'ODL','STML','Shams Textile Mills Ltd. ','READY',45.675,41.325,0
+'ODL','USMT','Usman Textile Mills Ltd. ','READY',1.51,.01,0
+'ODL','MSOT','Masood Textile Mills Ltd. ','READY',99.7395,90.2405,0
+'ODL','PRWM','Prosperity Weaving Mills Ltd. ','READY',27.825,25.175,0
+'ODL','SDIL','Saleem Denim Industries Ltd. ','READY',1.95,.01,0
+'ODL','HABSM','Habib Sugar Mills Ltd. ','READY',35.7,32.3,0
+'ODL','GHNI','Ghandhara Industries Ltd. ','READY',843.402,763.078,0
+'ODL','BPL','Burshane LPG (Pakistan) Limited. ','READY',51.765,46.835,0
+'ODL','MUKT','Mukhtar Textile Mills Limited ','READY',2.09,.09,0
+'ODL','SURC','Suraj Cotton Mills Ltd.(XDXB) ','READY',163.6845,148.0955,0
+'ODL','ENGRO','Engro Corporation Limited. ','READY',322.917,292.163,0
+'ODL','PKGI','Pakistan General Insurance Co.(XB) ','READY',8.85,6.85,0
+'ODL','KOIL','Kohinoor Industries Ltd. ','READY',4.99,2.99,0
+'ODL','PTC','Pakistan Telecommunication Co. ','READY',13.25,11.25,0
+'ODL','BOP','Bank Of Punjab. ','READY',10.37,8.37,0
+'ODL','RCML','Reliance Cotton Spinning Mills. ','READY',137.5605,124.4595,0
+'ODL','FFC','Fauji Fertilizer Co. Ltd.(XD) ','READY',91.4655,82.7545,0
+'ODL','PAKL','Pak Leather Crafts Ltd. ','READY',3.89,1.89,0
+'ODL','IDSM','Ideal Spinning Mills Ltd. ','READY',9,7,0
+'ODL','ESBL','Escorts Investment Bank Ltd. ','READY',43.6695,39.5105,0
+'ODL','JGICL','Jubilee General Insurance Co.Ltd. ','READY',86.079,77.881,0
+'ODL','KML','Kohinoor Mills Ltd. ','READY',38.808,35.112,0
+'ODL','UPFL','Unilever Pakistan Foods Ltd. ','READY',9555,8645,0
+'ODL','NBP','National Bank Of Pakistan. ','READY',50.169,45.391,0
+'ODL','ITSL','Investec Securities Ltd ','READY',1.42,.01,0
+'ODL','CLCPS','Chenab Limited Preference Shares. ','READY',2,.01,0
+'ODL','ASTL','Amreli Steels Limited. ','READY',96.852,87.628,0
+'ODL','SNGP','Sui Northern Gas Pipe Line Ltd. ','READY',124.0785,112.2615,0
+'ODL','SALT','Salfi Textile Mills Ltd. ','READY',168.7875,152.7125,0
+'ODL','TRG','TRG Pakistan Ltd. ','READY',39.1335,35.4065,0
+'ODL','SML','Shakarganj Limited. ','READY',74.4135,67.3265,0
+'ODL','PICL','Pakistan Industrial & Comm.Lea. ','READY',1.1,.01,0
+'ODL','AWWAL','Awwal Modaraba. ','READY',11,9,0
+'ODL','ACPL','Attock Cement Pak Ltd. ','READY',200.1615,181.0985,0
+'ODL','BYCO','BYCO Petroleum Pak Ltd. ','READY',16.22,14.22,0
+'ODL','DYNO','DYNEA Pak ','READY',195.6885,177.0515,0
+'ODL','SRVI','Service Industries. ','READY',840,760,0
+'ODL','ZIL','ZIL Limited. ','READY',127.575,115.425,0
+'ODL','OGDC','Oil & Gas Development Company Ltd. ','READY',173.397,156.883,0
+'ODL','MACFL','MACPAC Films Limited. ','READY',20.56,18.56,0
+'ODL','PRIC','Progressive Insurance Co Ltd. ','READY',2.13,.13,0
+'ODL','PIF','PICIC Investment Fund. ','READY',14.2,12.2,0
+'ODL','ANLPS','Azgard Nine (Pref) ','READY',10.8,8.8,0
+'ODL','PPL','Pakistan Petroleum Limited. ','READY',212.9925,192.7075,0
+'ODL','DSL','Dost Steels Ltd. ','READY',13.65,11.65,0
+'ODL','TREET','Treet Corporation Ltd. ','READY',43.1235,39.0165,0
+'ODL','EFGH','EFG Hermes Pakistan Ltd. ','READY',70.875,64.125,0
+'ODL','SMBL','Summit Bank Limited. ','READY',3.75,1.75,0
+'ODL','DEL','Dawood Equities Ltd. ','READY',5.3,3.3,0
+'ODL','ANLNV','Azgard Nine. (Non-Voting) ','READY',8,6,0
+'ODL','AMBL','Apna Microfinance Bank Limited. ','READY',6.75,4.75,0
+'ODL','JSGCL','JS Global Capital Limited. ','READY',44.1,39.9,0
+'ODL','TCLTC','Treet Corporation Ltd.(PTCs) ','READY',16.15,14.15,0
+'ODL','NETSOL','NetSol Technologies Ltd. ','READY',82.6875,74.8125,0
+'ODL','WTL','Worldcall Telecom Ltd. ','READY',3.51,1.51,0
+'ODL','DSIL','D. S. Industries Ltd. ','READY',3.59,1.59,0
+'ODL','FCCL','Fauji Cement Co Ltd. ','READY',29.9985,27.1415,0
+'ODL','NSRM','The National Silk & Rayon Mills Ltd. ','READY',32.445,29.355,0
+'ODL','REDCO','Redco Textile Ltd. ','READY',4.12,2.12,0
+'ODL','ALNRS','Al-Noor Sugar Mills Ltd. ','READY',45.15,40.85,0
+'ODL','FUDLM','First UDL Mod. ','READY',25.0005,22.6195,0
+'ODL','ZAHID','Zahidjee Textile Mills Ltd. ','READY',15.05,13.05,0
+'ODL','PINL','Premier Insurance Limited.(XB) ','READY',11.15,9.15,0
+'ODL','STJT','Shahtaj Textile Ltd. ','READY',80.85,73.15,0
+'ODL','OML','Olympia Mills Limited. ','READY',12.99,10.99,0
+'ODL','DSML','Dar-es-Salam Textile Mills Ltd ','READY',7.45,5.45,0
+'ODL','GIL','Good Luck Industries Limited. ','READY',521.472,471.808,0
+'ODL','BERG','Berger Paints Pakistan Ltd. ','READY',166.698,150.822,0
+'ODL','KOHC','Kohat Cement Co. Ltd. ','READY',163.695,148.105,0
+'ODL','COTT','Colony Thal Textile Mills Ltd. ','READY',6.05,4.05,0
+'ODL','IGIL','IGI Life Insurance Ltd. ','READY',87.78,79.42,0
+'ODL','GWLC','Gharibwal Cement Ltd. ','READY',27.741,25.099,0
+'ODL','KPUS','Khairpur Sugar Mills Ltd. ','READY',26.25,23.75,0
+'ODL','RICL','Reliance Insurance. ','READY',9,7,0
+'ODL','BGL','Baluchistan Glass Ltd. ','READY',10.27,8.27,0
+'ODL','HAFL','Hafiz Limited. ','READY',171.4965,155.1635,0
+'ODL','GENP','Genertech Pakistan Ltd. ','READY',1.89,.01,0
+'ODL','UCAPM','Unicap Modaraba. ','READY',2,.01,0
+'ODL','HINOON','Highnoon Laboratories Ltd. ','READY',503.643,455.677,0
+'ODL','PNSC','Pakistan National Shipping Co. ','READY',115.017,104.063,0
+'ODL','NRL','National Refinary Ltd. ','READY',460.2045,416.3755,0
+'ODL','JATM','J. A. Textile Mills Ltd. ','READY',6,4,0
+'ODL','UNITY','Unity Foods Limited. ','READY',27.5835,24.9565,0
+'ODL','FASM','Faisal Spinning Mills Ltd. ','READY',320.25,289.75,0
+'ODL','FZCM','Fazal Cloth Mills Ltd. ','READY',157.0275,142.0725,0
+'ODL','QUET','Quetta Textile Mills Ltd. ','READY',13,11,0
+'ODL','GADT','Gadoon Textile Mills Ltd. ','READY',236.25,213.75,0
+'ODL','GLOT','Globe Textile Mills Ltd. ','READY',9.7,7.7,0
+'ODL','GOEM','Globe Textile Mills (OE) Ltd. ','READY',42,40,0
+'ODL','GUTM','Gulistan Textile Mills Ltd. ','READY',16,14,0
+'ODL','HAJT','Hajra Textile Milla Ltd. ','READY',1.72,.01,0
+'ODL','ASIC','Asia Insurance Company Ltd. ','READY',19.6,17.6,0
+'ODL','CENI','Century Insurance Co.Ltd. ','READY',27.405,24.795,0
+'ODL','CSIL','Cresent Star Insurance Ltd. ','READY',5.32,3.32,0
+'ODL','BCML','Babri Cotton Mills Ltd. ','READY',54.075,48.925,0
+'ODL','CWSM','Chakwal Spinning Mills Limited. ','READY',4.56,2.56,0
+'ODL','GVGL','Ghani Value Glass Limited. ','READY',29.274,26.486,0
+'ODL','DATM','Data Textile Ltd. ','READY',1.5,.01,0
+'ODL','DKTM','Dewan Khalid Textile Mills Ltd. ','READY',4.25,2.25,0
+'ODL','DWTM','Dewan Textile Mills Ltd. ','READY',7,5,0
+'ODL','SSIC','Silver Star Insurance  Co. ','READY',7.34,5.34,0
+'ODL','SICL','Standard Insurance Co.Ltd ','READY',46.2,41.8,0
+'ODL','UVIC','Universal Insurance Company Ltd. ','READY',10.49,8.49,0
+'ODL','AHTM','Ahmed Hassan Textile Mills Ltd. ','READY',33.075,29.925,0
+'ODL','AATM','Ali Asghar Textile Mills Ltd. ','READY',3.07,1.07,0
+'ODL','AQTM','Al-Qaim Textile Mills Ltd. ','READY',2.31,.31,0
+'ODL','APOT','Apollo Textile Mills Ltd. ','READY',30.996,28.044,0
+'ODL','PUDF','Prudential Stock Fund. ','READY',3.33,1.33,0
+'ODL','BRR','B.R.R. Guardian Modaraba. ','READY',8.78,6.78,0
+'ODL','CSM','Cresent Standard Modaraba. ','READY',3.62,1.62,0
+'ODL','ORIXM','Orix Modaraba. ','READY',20.62,18.62,0
+'ODL','PAKMI','First Pak Mod. ','READY',3.4,1.4,0
+'ODL','TRSM','Trust Mod. ','READY',5.03,3.03,0
+'ODL','CPAL','Capital Assets Leasing Corp. ','READY',10.89,8.89,0
+'ODL','PDGH','Prudential Discount & Guarante ','READY',1.3,.01,0
+'ODL','SIBL','Security Investment Bank Ltd. ','READY',8.39,6.39,0
+'ODL','GRYL','Grays Leasing Ltd. ','READY',5.88,3.88,0
+'ODL','OLPL','Orix Leasing Pakistan Ltd. ','READY',42.525,38.475,0
+'ODL','TRIBL','Trust Investment Bank Ltd. ','READY',2.6,.6,0
+'ODL','AKBL','Askari Bank Limited. ','READY',21.0315,19.0285,0
+'ODL','MWMP','Mandviwala Mauser Plastic Ind. Ltd. ','READY',4.51,2.51,0
+'ODL','IDRT','Idrees Textile Mills Ltd. ','READY',16.2,14.2,0
+'ODL','PIOC','Pioneer Cement Ltd. ','READY',75.894,68.666,0
+'ODL','SEARL','The Searle Company Ltd. ','READY',389.3085,352.2315,0
+'ODL','KCL','Karam Ceramics Mills Ltd. ','READY',22.995,20.805,0
+'ODL','SPLC','Saudi Pak Leasing Co. ','READY',1.9,.01,0
+'ODL','TRIPF','Tri-Pack Films Ltd. ','READY',183.1935,165.7465,0
+'ODL','AMSL','Al-Mal Securities & Services L ','READY',1.62,.01,0
+'ODL','MARI','Mari Petroleum Company Ltd. ','READY',1501.353,1358.367,0
+'ODL','SARC','Sardar Chemical IndustriesLtd. ','READY',13.31,11.31,0
+'ODL','BAHL','Bank Al-Habib Ltd. ','READY',72.975,66.025,0
+'ODL','SRSM','Sargodha Spinning Mills Ltd. ','READY',27.132,24.548,0
+'ODL','SERT','Service Textile Mills Ltd. ','READY',16.99,14.99,0
+'ODL','HUBC','Hub Power Company Limited. ','READY',104.055,94.145,0
+'ODL','SUTM','Sunrays Textile Mills Ltd. ','READY',167.097,151.183,0
+'ODL','FDIBL','First Dawood Investment Bank Ltd. ','READY',2.73,.73,0
+'ODL','FHAM','First Habib Mod. ','READY',11.41,9.41,0
+'ODL','LMSM','Landmark Spinning Mills Limite ','READY',6.95,4.95,0
+'ODL','NAGC','Nagina Cotton Mills Ltd. ','READY',50.19,45.41,0
+'ODL','786','786 Investment Limited ','READY',3.15,1.15,0
+'ODL','ANNT','Annor Textile Mills Ltd. ','READY',12.38,10.38,0
+'ODL','ASTM','Asim Textile Mills Ltd. ','READY',11.2,9.2,0
+'ODL','AYTM','Ayesha Textile Mills Ltd. ','READY',456.3825,412.9175,0
+'ODL','BIIC','Business & Industrial Insuranc ','READY',4.6,2.6,0
+'ODL','EFUG','E. F. U. Gen Insurance Ltd. ','READY',153.0585,138.4815,0
+'ODL','EWLA','East West Life Assurance Company. ','READY',23.0685,20.8715,0
+'ODL','DMTX','D. M. Textile Mills Ltd. ','READY',43.0605,38.9595,0
+'ODL','ELCM','Elahi Cotton Mills Ltd. ','READY',41.895,37.905,0
+'ODL','ELSM','Ellcot Spinning Mills Ltd. ','READY',76.671,69.369,0
+'ODL','FAEL','Fatima Enterprises Ltd. ','READY',15.3,13.3,0
+'ODL','SHNI','Shaheen Insurance Co Ltd. ','READY',6,4,0
+'ODL','UNIC','United Insurance Company. ','READY',17.99,15.99,0
+'ODL','ADTM','Adil Textile Mills Limited. ','READY',9.9,7.9,0
+'ODL','AZTM','Al-Azhar Textile Mills Ltd. ','READY',1.26,.01,0
+'ODL','JKSM','J. K. Spinning Mills Ltd. ','READY',22.575,20.425,0
+'ODL','JDMT','Janana De Malucha Tex Mills. ','READY',94.595445,85.586355,0
+'ODL','KACM','Karim Cotton Mills Ltd. ','READY',17,15,0
+'ODL','KSTM','Khalid Siraj Textile Mills Ltd ','READY',3.01,1.01,0
+'ODL','KHSM','Khurshid Spinning Mills Ltd. ','READY',2,.01,0
+'ODL','AZMT','Azmat Textile Mills Ltd. ','READY',10.95,8.95,0
+'ODL','BILF','Bilal Fibres Ltd. ','READY',4.24,2.24,0
+'ODL','DINT','Din Textile Mills Ltd. ','READY',104.7375,94.7625,0
+'ODL','GLAT','Glamour Textile Mills Ltd ','READY',68.25,65,0
+'ODL','GUSM','Gulistan Spinning Mills Ltd. ','READY',2.4,.4,0
+'ODL','GSPM','Gulshan Spinning Mills Ltd. ','READY',2.08,.08,0
+'ODL','SUCM','Sunshine Cotton Mills Ltd. ','READY',1.33,.01,0
+'ODL','TATM','Tata Textile Mills Ltd. ','READY',35.7735,32.3665,0
+'ODL','KOHTM','Kohat Textile Mills Ltd. ','READY',20,18,0
+'ODL','KOSM','Kohinoor Spinning Mills Ltd. ','READY',4.35,2.35,0
+'ODL','MDTM','Mehr Dastgir Textile Mills Ltd. ','READY',2.5,.5,0
+'ODL','NPSM','N.P. Spinning Mills Ltd. ','READY',12.6,10.6,0
+'ODL','NATM','Nadeem Textile Mills Ltd. ','READY',36.078,32.642,0
+'ODL','NCML','Nazir Cotton Mills Ltd. ','READY',4.06,2.06,0
+'ODL','PRIB','Prudential Investment Bank ','READY',5,3,0
+'ODL','RUBY','Ruby Textile Mills Ltd. ','READY',5.5,3.5,0
+'ODL','SAIF','Saif Textile Mills Ltd. ','READY',20.05,18.05,0
+'ODL','SJTM','Sajjad Textile Mills Ltd. ','READY',4.37,2.37,0
+'ODL','SANE','Salman Noman Enterprises Ltd. ','READY',4.55,2.55,0
+'ODL','SHCM','Shadman Cotton Mills Ltd. ','READY',5.73,3.73,0
+'ODL','SZTM','Shahzad Textile Mills Ltd. ','READY',46.725,42.275,0
+'ODL','EWIC','East West Ins. Co. Ltd. ','READY',148.134,134.026,0
+'ODL','ATIL','Atlas Insurance Limited. ','READY',80.955,73.245,0
+'ODL','SNBL','Soneri Bank Ltd. ','READY',13.75,11.75,0
+'ODL','PGLC','Pak Gulf Leasing Co Ltd. ','READY',13,11,0
+'ODL','ARPL','Archroma Pakistan Limited. ','READY',567,513,0
+'ODL','MERIT','Merit Packaging Ltd. ','READY',22.0605,19.9595,0
+'ODL','PKGS','Packages Ltd. ','READY',602.9625,545.5375,0
+'ODL','EXTR','Extraction (Pakistan) ','READY',16.1,14.1,0
+'ODL','FEROZ','Ferozsons Laboratories Ltd. ','READY',259.686,234.954,0
+'ODL','SAPL','Sanofi-Aventis Pakistan Ltd. ','READY',1614.9,1461.1,0
+'ODL','LPGL','Leiner Pak Gelantine Limited. ','READY',20.13,18.13,0
+'ODL','PGCL','Pakistan Gum & Chemicals Ltd. ','READY',146.2125,132.2875,0
+'ODL','MUREB','Murree Brewery Company Ltd. ','READY',809.823,732.697,0
+'ODL','FFL','Fauji Foods Limited. ','READY',28.539,25.821,0
+'ODL','BPBL','Baluchistan Particle Board Ltd ','READY',5.06,3.06,0
+'ODL','CEPB','Century Paper & Board Mills. ','READY',70.875,64.125,0
+'ODL','CFL','Crescent Fibres Limited. ','READY',23.268,21.052,0
+'ODL','REGAL','Regal Ceramics Ltd. ','READY',4.8,2.8,0
+'ODL','STCL','Shabbir Tiles & Ceramis. ','READY',17.36,15.36,0
+'ODL','ARPAK','Arpak International Investment. ','READY',20.99,18.99,0
+'ODL','GLPL','Gillatte Pakistan Ltd. ','READY',262.5,237.5,0
+'ODL','PHDL','Pakistan Hotels Developers Ltd. ','READY',93.2925,84.4075,0
+'ODL','SHFA','Shifa Int. Hospital Ltd. ','READY',308.7,279.3,0
+'ODL','UDPL','United Distributors Pakistan. ','READY',56.7,51.3,0
+'ODL','FFLM','First Fidelity Leasing Mod. ','READY',6.5,4.5,0
+'ODL','SHDT','Shadab Textile Mills Ltd. ','READY',53.55,48.45,0
+'ODL','BFMOD','B.F.Modaraba. ','READY',9.49,7.49,0
+'ODL','SAPT','Sapphire Textile Mills Ltd. ','READY',1749.405,1582.795,0
+'ODL','TSMF','Tri - Star Mutual Fund Ltd. ','READY',5.58,3.58,0
+'ODL','FANM','First Al-Noor Mod. ','READY',4.11,2.11,0
+'ODL','DOMF','Dominion Stock Fund ','READY',1.34,.01,0
+'ODL','GASF','Golden Arrow. ','READY',10.28,8.28,0
+'ODL','DFML','Dewan Farooque Motors Limited ','READY',48.237,43.643,0
+'ODL','SLYT','Sally Textile Mills Ltd. ','READY',11,9,0
+'ODL','BEEM','Beema Pakistan Co. Ltd. ','READY',3.3,1.3,0
+'ODL','BWCL','Bestway Cement Limited.(XD) ','READY',159.6525,144.4475,0
+'ODL','AHCL','Arif Habib Corporation Ltd. ','READY',36.225,32.775,0
+'ODL','PAKRI','Pakistan Reinsurance Comp. ','READY',44.352,40.128,0
+'ODL','WYETH','Wyeth Pakistan Limited. ','READY',2141.9895,1937.9905,0
+'ODL','GLAXO','Glaxo SmithKline Pakistan Ltd. ','READY',198.009,179.151,0
+'ODL','OTSU','Otsuka Pakistan Ltd. ','READY',299.25,270.75,0
+'ODL','PPVC','Pakistan PVC ','READY',8.19,6.19,0
+'ODL','NESTLE','Nestle Pakistan Ltd. ','READY',13230,11970,0
+'ODL','MFFL','Mitchells Fruit Farms Ltd. ','READY',294,266,0
+'ODL','NATF','National Foods Ltd. ','READY',320.355,289.845,0
+'ODL','QUICE','Quice Food Industries Ltd. ','READY',7.01,5.01,0
+'ODL','ABSON','Abson Industries Limited ','READY',3.5,1.5,0
+'ODL','DBSL','Dadabhoy Sack Ltd. ','READY',8,6,0
+'ODL','PPP','Pakistan Paper Products Ltd. ','READY',97.3035,88.0365,0
+'ODL','GOC','GOC (PAK) Limited. ','READY',64.47,58.33,0
+'ODL','HACC','Hashimi Can Co Ltd. ','READY',9,7,0
+'ODL','DCTL','Dadabhoy Construction Technology Ltd. ','READY',1.08,.01,0
+'ODL','RMPL','Rafhan Maize Products Ltd. ','READY',7978.95,7219.05,0
+'ODL','EMCO','EMCO Industries Ltd. ','READY',22.0395,19.9405,0
+'ODL','FRCL','Frontier Ceramics Ltd. ','READY',19.97,17.97,0
+'ODL','TGL','Tariq Glass. ','READY',122.3145,110.6655,0
+'ODL','DCR','Dolmen City REIT. ','READY',14,12,0
+'ODL','AKGL','Al-Khair Gadoon Ltd. ','READY',12,10,0
+'ODL','AKDCL','AKD Capital Limited. ','READY',133.1715,120.4885,0
+'ODL','FIMM','First Imrooz Mod. ','READY',220.5,199.5,0
+'ODL','PSO','Pakistan State Oil Co Ltd. ','READY',316.281,286.159,0
+'ODL','DSFL','Dewan Sulman Fibre Ltd. ','READY',1.88,.01,0
+'ODL','MCB','MCB Bank Limited. ','READY',224.9835,203.5565,0
+'ODL','AGTL','Al-Ghazi Tractors Limited. ','READY',723.2715,654.3885,0
+'ODL','JOVC','Javed Omer Vohra & Co.Ltd. ','READY',2.9,.9,0
+'ODL','FML','Feroze1888 Mills Ltd. ','READY',60.984,55.176,0
+'ODL','NCL','Nishat (Chunia) Ltd. ','READY',51.9015,46.9585,0
+'ODL','BROT','Brothers Textile Mills Limited ','READY',5.2,3.2,0
+'ODL','POWER','Power cement Limited ','READY',10.34,8.34,0
+'ODL','CJPL','Crescent Jute Products Ltd. ','READY',4.4,2.4,0
+'ODL','TSBL','Trust Securities & Brokerage. ','READY',12.8,10.8,0
+'ODL','SGABL','S.G. Allied Businesses Limited ','READY',132.3,119.7,0
+'ODL','HSM','Husein Sugar Mills Limited. ','READY',30.555,27.645,0
+'ODL','UBDL','United Brands Limited. ','READY',533.169,482.391,0
+'ODL','SHEZ','Shezan International Ltd. ','READY',546.84,494.76,0
+'ODL','FIL','Fateh Industries Ltd. ','READY',185.4195,167.7605,0
+'ODL','SURAJ','Suraj Ghee Industries ','READY',11,9,0
+'ODL','DAAG','Data Agro Limited ','READY',15.06,13.06,0
+'ODL','ENGL','English Leasing ','READY',1.65,.01,0
+'ODL','PGF','PICIC Growth Fund. ','READY',29.736,26.904,0
+'ODL','YOUW','Yousuf Weaving Mills Limited. ','READY',5.05,3.05,0
+'ODL','PAKD','Pak Datacom Limited. ','READY',63.1575,57.1425,0
+'ODL','HMB','Habib Metropolitn Bank Limited. ','READY',43.5225,39.3775,0
+'ODL','SSML','Saritow Spinning Mills Ltd. ','READY',7.7,5.7,0
+'ODL','RAVT','Ravi Textile Mills Ltd. ','READY',6.26,4.26,0
+'ODL','ICCT','ICC Textile Limited ','READY',2.9,.9,0
+'ODL','SEPCO','Southern Electric Power Co. Ltd. ','READY',3.21,1.21,0
+'ODL','DGKC','D. G. Khan Cement Co. Ltd. ','READY',159.6315,144.4285,0
+'ODL','DWAE','Dewan Automotive Engineering Ltd. ','READY',4.26,2.26,0
+'ODL','FECTC','Fecto Cement Ltd. ','READY',52.0485,47.0915,0
+'ODL','JLICL','Jubliee Life Insurance Co Ltd. ','READY',756,684,0
+'ODL','ARUJ','Aruj Industries Limited. ','READY',30.807,27.873,0
+'ODL','COST','Colony Sarhad Textile Mills Lt ','READY',1.5,.01,0
+'ODL','FTHM','Fateh Textile Mills Ltd. ','READY',77.7,70.3,0
+'ODL','HAEL','Hala Enterprises Limited ','READY',11.09,9.09,0
+'ODL','HAL','Habib-ADM Limited. ','READY',22.5015,20.3585,0
+'ODL','MOON','Moonlite (Pak) Ltd. ','READY',23.1,20.9,0
+'ODL','AASM','Al-Abid Silk Mills Limited. ','READY',4.49,2.49,0
+'ODL','NAFL','National Fibres Ltd. ','READY',11,9,0
+'ODL','NORS','Noor Silk Mills ','READY',40.95,37.05,0
+'ODL','RUPL','Rupali Polyester Ltd. ','READY',34.671,31.369,0
+'ODL','ISTM','Ishaq Textile Mills Ltd. ','READY',9.8,7.8,0
+'ODL','DNCC','Dandot Cement Co. Ltd. ','READY',12.6,10.6,0
+'ODL','TRPOL','Tri-Star Polyester Ltd. ','READY',22.974,20.786,0
+'ODL','THALL','Thal Limited. ','READY',500.094,452.466,0
+'ODL','ADAMS','Adam Sugar Mills Limited. ','READY',36.582,33.098,0
+'ODL','ANSM','Ansari Sugar Mills Ltd.(XD) ','READY',24.6435,22.2965,0
+'ODL','SLSOPP','Saleem Sugar Mills Ltd. (PP) ','READY',5.4,3.4,0
+'ODL','CCM','Crescent Cotton Mills Limited. ','READY',39.69,35.91,0
+'ODL','JSML','Jauharabad Sugar Mills Ltd.(XB) ','READY',44.142,39.938,0
+'ODL','MRNS','Mehran Sugar Mills Ltd. ','READY',119.7105,108.3095,0
+'ODL','MIRKS','Mirpurkhas Sugar Mills Ltd. ','READY',138.7575,125.5425,0
+'ODL','NONS','Noon Sugar Mills Ltd. ','READY',61.9395,56.0405,0
+'ODL','SKRS','Sakrand Sugar Mills Ltd. ','READY',28.266,25.574,0
+'ODL','SHJS','Shahtaj Suger Mills Ltd.(XD) ','READY',140.6895,127.2905,0
+'ODL','SASML','Sindh Abadgars Sugar Mills Ltd. ','READY',16.8,14.8,0
+'ODL','SGPL','S. G. Power Ltd. ','READY',2.55,.55,0
+'ODL','SEL','Sitara Enengy Ltd. ','READY',27.615,24.985,0
+'ODL','ADOS','Ados Pakistan Limited. ','READY',54.0225,48.8775,0
+'ODL','BCL','Bolan Casting Ltd. ','READY',141.3405,127.8795,0
+'ODL','DKL','Drekkar Kingsway Ltd. ','READY',6.94,4.94,0
+'ODL','INIL','International Industries Ltd. ','READY',317.2995,287.0805,0
+'ODL','PECO','Pakistan Engineering Co Ltd. ','READY',227.5875,205.9125,0
+'ODL','TREI','Transmission Engineering Ind Ltd. ','READY',2.46,.46,0
+'ODL','AGIL','Agriautos Industries Co. Ltd.(XD) ','READY',325.584,294.576,0
+'ODL','GHNL','Ghandhara Nissan Ltd. ','READY',232.6485,210.4915,0
+'ODL','HCAR','Honda Atlas Cars (Pak) Ltd. ','READY',505.6275,457.4725,0
+'ODL','SITC','Sitara Chemicals. ','READY',351.4035,317.9365,0
+'ODL','PCAL','Pakistan Cables Ltd. ','READY',312.9,283.1,0
+'ODL','PAEL','Pakistan Elektron Ltd. ','READY',49.1925,44.5075,0
+'ODL','SFLL','SFL Limited. ','READY',151.2,136.8,0
+'ODL','PIAB','Pakistan International Airline Corp Ltd ','READY',4.8,2.8,0
+'ODL','FECM','First Elite Capital Mod. ','READY',3.89,1.89,0
+'ODL','SUHJ','Sohail Jute Mills Ltd. ','READY',12.35,10.35,0
+'ODL','AGSML','Abdullah Shaha Ghazi Suger Mills Ltd. ','READY',7.31,5.31,0
+'ODL','BAFS','Baba Faried Sugar Mills Ltd. ','READY',42,38,0
+'ODL','SLSO','Saleem Sugar Mills Ltd. (O) ','READY',8,6,0
+'ODL','SLSOPVI','Saleem Sugar Mills Ltd. (P) 6% ','READY',58.695,53.105,0
+'ODL','CHAS','Chashma Sugar Mills Ltd (XD) ','READY',41.1705,37.2495,0
+'ODL','AEL','Arshad Energy Limited. ','READY',10.83,8.83,0
+'ODL','KEL','K-Electric Limited. ','READY',7.31,5.31,0
+'ODL','MZSM','Mirza Sugar Mills Ltd. ','READY',6.81,4.81,0
+'ODL','PNGRS','Pangrio Sugar Mills Ltd. ','READY',6.42,4.42,0
+'ODL','PMRS','Premier Sugar Mills & Distille ','READY',93.45,84.55,0
+'ODL','SANSM','Sanghar Sugar Mills Ltd. ','READY',26.145,23.655,0
+'ODL','SHSML','Shahmurad Sugar Mills Ltd.(XD) ','READY',59.8395,54.1405,0
+'ODL','TSML','Tandliawala Sugar Mills Ltd. ','READY',162.6765,147.1835,0
+'ODL','TICL','Thal Industries Corporation Ltd. ','READY',409.4895,370.4905,0
+'ODL','HSPI','Huffaz Seamless Pipe Industrie. ','READY',29.4105,26.6095,0
+'ODL','KSBP','KSB Pumps Co Ltd. ','READY',368.6865,333.5735,0
+'ODL','QUSW','Quality Steel Works Ltd. ','READY',12,10,0
+'ODL','JVDC','Javedan Corporation Ltd. ','READY',46.5045,42.0755,0
+'ODL','ZELP','Zeal Pak Cement Factory Ltd. ','READY',1.44,.01,0
+'ODL','KHTC','Khyber Tobacco Co. Ltd. ','READY',807.7335,730.8065,0
+'ODL','PAKT','Pakistan Tobacco Co Ltd. ','READY',2205.105,1995.095,0
+'ODL','KOHP','Kohinoor Power Co Ltd. ','READY',4.75,2.75,0
+'ODL','PRL','Pakistan Refinery Ltd. ','READY',39.7845,35.9955,0
+'ODL','CSAP','Crescent Steel & Allied Product. ','READY',138.5685,125.3715,0
+'ODL','ABOT','Abbot Laboratories Pak Ltd. ','READY',693,627,0
+'ODL','BUXL','Buxly Paints Ltd. ','READY',104.895,94.905,0
+'ODL','ATBA','Atlas Battery Ltd. ','READY',413.7,374.3,0
+'ODL','GTYR','General Tyre & Rubber Co. ','READY',203.847,184.433,0
+'ODL','HINO','Hino Pak Motor Limeted. ','READY',1301.748,1177.772,0
+'ODL','INDU','Indus Motor Company Ltd. ','READY',1837.5,1662.5,0
+'ODL','MTL','Millat Tractor Ltd. ','READY',1438.017,1301.063,0
+'ODL','LINDE','Linde Pakistan Limited. ','READY',246.309,222.851,0
+'ODL','SING','Singer Pakistan Ltd. ','READY',51.324,46.436,0
+'ODL','SIEM','Siemens (Pak) Eng. Co. Ltd. ','READY',981.75,888.25,0
+'ODL','PIAA','Pak International Airline Corp Ltd ','READY',6.17,4.17,0
+'ODL','MOIL','Morafco Industries ','READY',11.25,9.25,0
+'ODL','POML','Punjab Oil Mills Ltd. ','READY',294,266,0
+'ODL','FIBLM','First IBL Modaraba. ','READY',5.35,3.35,0
+'ODL','HKKT','Hakkim Textile Mills Limited ','READY',1.5,.01,0
+'ODL','MOHE','Mohib Exports Ltd. ','READY',1.15,.01,0
+'ODL','PMI','First Prudential Mod. ','READY',3.17,1.17,0
+'ODL','FIM','First Investec Modarba ','READY',1.2,.01,0
+'ODL','DLL','Dawood Lawrencepur Ltd. ','READY',190.881285,172.702115,0
+'ODL','FSWL','Fateh Sports Wear Ltd. ','READY',60.74775,54.96225,0
+'ODL','HATM','Hamid Textile Mills Limited ','READY',1.97,.01,0
+'ODL','TAJT','Taj Textile Mills Ltd. ','READY',1.41,.01,0
+'ODL','ASHT','Ashfaq Textile Mills Ltd. ','READY',10.34,8.34,0
+'ODL','GAIL','Ghani Automobile Industries Ltd. ','READY',8.83,6.83,0
+'ODL','SCHT','Schon Textile Ltd. ','READY',1.65,.01,0
+'ODL','TOWL','Towellers  Ltd. ','READY',91.0035,82.3365,0
+'ODL','ZHCM','Zahur Cotton Mills ','READY',1.06,.01,0
+'ODL','REWM','Reliance Weaving Mills Ltd. ','READY',31.5,28.5,0
+'ODL','SDOT','Sadoon Textile Industries Ltd. ','READY',1.85,.01,0
+'ODL','SMTM','Samin Textiles Ltd. ','READY',6.6,4.6,0
+'ODL','SERF','Service Fabrics Ltd. ','READY',4.45,2.45,0
+'ODL','KAKL','Kaisar Arts & Krafts Ltd. ','READY',1.55,.01,0
+'ODL','MUBT','Mubarak Textile Mills Ltd. ','READY',4.1,2.1,0
+'ODL','NML','Nishat Mills Ltd. ','READY',166.6035,150.7365,0
+'ODL','DWSM','Dewan Sugar Mills Ltd. ','READY',7.81,5.81,0
+'ODL','IBFL','Ibrahim Fibre Limited. ','READY',64.554,58.406,0
+'ODL','DBCI','Dadabhoy Cement Industries Ltd ','READY',4.12,2.12,0
+'ODL','DADX','Dadex Eternit Ltd. ','READY',55.125,49.875,0
+'CFS','PRL','Pakistan Refinery Ltd. ','READY',23.63,.01,0
+'CFS','INDU','Indus Motor Company Ltd. ','READY',23.63,.01,0
+'CFS','MTL','Millat Tractor Ltd. ','READY',23.63,.01,0
+'CFS','PIAA','Pak International Airline Corp Ltd ','READY',23.63,.01,0
+'CFS','NML','Nishat Mills Ltd. ','READY',23.63,.01,0
+'CFS','DGKC','D. G. Khan Cement Co. Ltd. ','READY',23.63,.01,0
+'CFS','THALL','Thal Limited. ','READY',23.63,.01,0
+'CFS','PCAL','Pakistan Cables Ltd. ','READY',23.63,.01,0
+'CFS','PAEL','Pakistan Elektron Ltd. ','READY',23.63,.01,0
+'CFS','PKGS','Packages Ltd. ','READY',23.63,.01,0
+'CFS','FEROZ','Ferozsons Laboratories Ltd. ','READY',23.63,.01,0
+'CFS','DFML','Dewan Farooque Motors Limited ','READY',23.63,.01,0
+'CFS','PSO','Pakistan State Oil Co Ltd. ','READY',23.63,.01,0
+'CFS','DSFL','Dewan Sulman Fibre Ltd. ','READY',23.63,.01,0
+'CFS','MCB','MCB Bank Limited. ','READY',23.63,.01,0
+'CFS','JOVC','Javed Omer Vohra & Co.Ltd. ','READY',23.63,.01,0
+'CFS','NCL','Nishat (Chunia) Ltd. ',170,23.63,.01,0
+'CFS','PIOC','Pioneer Cement Ltd. ','READY',23.63,.01,0
+'CFS','BAHL','Bank Al-Habib Ltd. ','READY',23.63,.01,0
+'CFS','HUBC','Hub Power Company Limited. ','READY',23.63,.01,0
+'CFS','EFUG','E. F. U. Gen Insurance Ltd. ','READY',23.63,.01,0
+'CFS','SNBL','Soneri Bank Ltd. ','READY',23.63,.01,0
+'CFS','FCCL','Fauji Cement Co Ltd. ','READY',23.63,.01,0
+'CFS','KOHC','Kohat Cement Co. Ltd. ','READY',23.63,.01,0
+'CFS','AKBL','Askari Bank Limited. ','READY',23.63,.01,0
+'CFS','ANL','Azgard Nine Limited ','READY',23.63,.01,0
+'CFS','ENGRO','Engro Corporation Limited. ','READY',23.63,.01,0
+'CFS','PTC','Pakistan Telecommunication Co. ','READY',23.63,.01,0
+'CFS','BOP','Bank Of Punjab. ','READY',23.63,.01,0
+'CFS','FFC','Fauji Fertilizer Co. Ltd.(XD) ','READY',23.63,.01,0
+'CFS','NBP','National Bank Of Pakistan. ','READY',23.63,.01,0
+'CFS','SNGP','Sui Northern Gas Pipe Line Ltd. ','READY',23.63,.01,0
+'CFS','TRG','TRG Pakistan Ltd. ','READY',23.63,.01,0
+'CFS','ACPL','Attock Cement Pak Ltd. ','READY',23.63,.01,0
+'CFS','OGDC','Oil & Gas Development Company Ltd. ','READY',23.63,.01,0
+'CFS','PPL','Pakistan Petroleum Limited. ','READY',23.63,.01,0
+'CFS','NETSOL','NetSol Technologies Ltd. ','READY',23.63,.01,0
+'CFS','WTL','Worldcall Telecom Ltd. ','READY',23.63,.01,0
+'CFS','STPL','Siddiqsons Tin Plate Ltd. ','READY',23.63,.01,0
+'CFS','APL','Attock Petroleum Limited. ','READY',23.63,.01,0
+'CFS','PSMC','Pak Suzuki Motors Co Ltd. ','READY',23.63,.01,0
+'CFS','CHCC','Cherat Cement Co. Ltd. ','READY',23.63,.01,0
+'CFS','SSGC','Sui Southern Gas Co Ltd. ','READY',23.63,.01,0
+'CFS','FABL','Faysal Bank Limited. ','READY',23.63,.01,0
+'CFS','MLCF','Maple Leaf Cement Factory Ltd. ','READY',23.63,.01,0
+'CFS','KAPCO','Kot Addu Power Company. ','READY',23.63,.01,0
+'CFS','FNEL','First National Equities Limited. ','READY',23.63,.01,0
+'CFS','DCL','Dewan Cement Limited. ','READY',23.63,.01,0
+'CFS','PACE','Pace (Pakistan) Ltd. ','READY',23.63,.01,0
+'CFS','JSBL','JS Bank Limited. ','READY',23.63,.01,0
+'CFS','CHBL','Chenab Limited ','READY',23.63,.01,0
+'CFS','BAFL','Bank Alfalah Ltd. ','READY',23.63,.01,0
+'CFS','AICL','Adamjee Insurance Co. Ltd. ','READY',23.63,.01,0
+'CFS','FFBL','Fauji Fertilizer Bin Qasim Ltd. ','READY',23.63,.01,0
+'CFS','ABL','Allied Bank Ltd. ','READY',23.63,.01,0
+'CFS','LUCK','Lucky Cement Limited. ','READY',23.63,.01,0
+'CFS','TELE','Telecard Ltd. ','READY',23.63,.01,0
+'CFS','SEPL','Security Papers Ltd. ','READY',23.63,.01,0
+'CFS','POL','Pakistan Oilfields Limited. ','READY',23.63,.01,0
+'CFS','ICI','ICI Pakistan Limited. ','READY',23.63,.01,0
+'CFS','ATRL','Attock Refinery Limited. ','READY',23.63,.01,0
+'CSF','AKBL-CMAR','Askari Bank Limited. ','READY',21.189,19.171,20.18
+'CSF','ATRL-CMAR','Attock Refinery Limited. ','READY',273.7455,247.6745,260.71
+'CSF','ENGRO-CMAR','Engro Corporation Limited. ','READY',325.332,294.348,309.84
+'CSF','FCCL-CMAR','Fauji Cement Co Ltd. ','READY',30.219,27.341,28.78
+'CSF','FFBL-CMAR','Fauji Fertilizer Bin Qasim Ltd. ','READY',39.606,35.834,37.72
+'CSF','BOP-CMAR','Bank Of Punjab. ','READY',10.44,8.44,9.44
+'CSF','DGKC-CMAR','D. G. Khan Cement Co. Ltd. ','READY',160.8285,145.5115,153.17
+'CSF','OGDC-CMAY','Oil & Gas Development Company Ltd. ','READY',177.492,160.588,169.04
+'CSF','BAFL-CMAR','Bank Alfalah Ltd. ','READY',49.875,45.125,47.5
+'CSF','BOP-CAPR','Bank Of Punjab. ','READY',10.52,8.52,9.52
+'CSF','DGKC-CAPR','D. G. Khan Cement Co. Ltd. ','READY',162.1095,146.6705,154.39
+'CSF','DGKC-CMAY','D. G. Khan Cement Co. Ltd. ','READY',163.401,147.839,155.62
+'CSF','NCL-CMAR','Nishat (Chunia) Ltd. ','READY',52.29,47.31,49.8
+'CSF','NCL-CMAY','Nishat (Chunia) Ltd. ','READY',53.13,48.07,50.6
+'CSF','EFOODS-CMAY','Engro Foods Limited. ','READY',99.8445,90.3355,95.09
+'CSF','BOP-CMAY','Bank Of Punjab. ','READY',10.59,8.59,9.59
+'CSF','MLCF-CMAY','Maple Leaf Cement Factory Ltd. ','READY',81.795,74.005,77.9
+'CSF','EFOODS-CMAR','Engro Foods Limited. ','READY',98.28,88.92,93.6
+'CSF','EFOODS-CAPR','Engro Foods Limited. ','READY',99.057,89.623,94.34
+'CSF','KEL-CMAR','K-Electric Limited. ','READY',7.36,5.36,6.36
+'CSF','MLCF-CMAR','Maple Leaf Cement Factory Ltd. ','READY',80.5035,72.8365,76.67
+'CSF','PAEL-CMAR','Pakistan Elektron Ltd. ','READY',49.56,44.84,47.2
+'CSF','EFERT-CMAY','Engro Fertilizers Limited. ','READY',74.655,67.545,71.1
+'CSF','KEL-CMAY','K-Electric Limited. ','READY',7.46,5.46,6.46
+'CSF','PAEL-CMAY','Pakistan Elektron Ltd. ','READY',50.358,45.562,47.96
+'CSF','NCL-CAPR','Nishat (Chunia) Ltd. ','READY',52.71,47.69,50.2
+'CSF','GATM-CAPR','Gul Ahmed Textile Mills Ltd. ','READY',41.3805,37.4395,39.41
+'CSF','TREET-CMAY','Treet Corporation Ltd. ','READY',44.142,39.938,42.04
+'CSF','MUGHAL-CMAY','Mughal Iron & Steels Ind Ltd. ','READY',81.102,73.378,77.24
+'CSF','BYCO-CMAY','BYCO Petroleum Pak Ltd. ','READY',16.58,14.58,15.58
+'CSF','LOADS-CMAY','Loads Limited. ','READY',42.903,38.817,40.86
+'CSF','TRG-CMAR','TRG Pakistan Ltd. ','READY',39.4275,35.6725,37.55
+'CSF','ISL-CMAR','International Steels Limited. ','READY',126.8925,114.8075,120.85
+'CSF','POWER-CMAR','Power cement Limited ','READY',10.41,8.41,9.41
+'CSF','TRG-CAPR','TRG Pakistan Ltd. ','READY',39.7425,35.9575,37.85
+'CSF','ISL-CAPR','International Steels Limited. ','READY',127.911,115.729,121.82
+'CSF','EFERT-CAPR','Engro Fertilizers Limited. ','READY',74.067,67.013,70.54
+'CSF','EFERT-CMAR','Engro Fertilizers Limited. ','READY',73.479,66.481,69.98
+'CSF','ISL-CMAY','International Steels Limited. ','READY',128.919,116.641,122.78
+'CSF','POWER-CMAY','Power cement Limited ','READY',10.56,8.56,9.56
+'CSF','TRG-CMAY','TRG Pakistan Ltd. ','READY',40.0575,36.2425,38.15
+'CSF','POWER-CAPR','Power cement Limited ','READY',10.49,8.49,9.49
+'CSF','GATM-CMAR','Gul Ahmed Textile Mills Ltd. ','READY',41.055,37.145,39.1
+'CSF','MLCF-CAPR','Maple Leaf Cement Factory Ltd. ','READY',81.144,73.416,77.28
+'CSF','PAEL-CAPR','Pakistan Elektron Ltd. ','READY',49.959,45.201,47.58
+'CSF','OGDC-CMAR','Oil & Gas Development Company Ltd. ','READY',174.699,158.061,166.38
+'CSF','NBP-CMAR','National Bank Of Pakistan. ','READY',50.547,45.733,48.14
+'CSF','OGDC-CAPR','Oil & Gas Development Company Ltd. ','READY',176.0955,159.3245,167.71
+'CSF','NBP-CMAY','National Bank Of Pakistan. ','READY',51.3555,46.4645,48.91
+'CSF','KEL-CAPR','K-Electric Limited. ','READY',7.41,5.41,6.41
+'CSF','HBL-CAPR','Habib Bank Limited. ','READY',226.9785,205.3615,216.17
+'CSF','AKBL-CAPR','Askari Bank Limited. ','READY',21.357,19.323,20.34
+'CSF','ATRL-CAPR','Attock Refinery Limited. ','READY',275.9295,249.6505,262.79
+'CSF','BAFL-CAPR','Bank Alfalah Ltd. ','READY',50.274,45.486,47.88
+'CSF','ENGRO-CAPR','Engro Corporation Limited. ','READY',327.936,296.704,312.32
+'CSF','FCCL-CAPR','Fauji Cement Co Ltd. ','READY',30.4605,27.5595,29.01
+'CSF','FFBL-CAPR','Fauji Fertilizer Bin Qasim Ltd. ','READY',39.921,36.119,38.02
+'CSF','FFC-CAPR','Fauji Fertilizer Co. Ltd. ','READY',92.883,84.037,88.46
+'CSF','HUBC-CAPR','Hub Power Company Limited. ','READY',105.672,95.608,100.64
+'CSF','MCB-CAPR','MCB Bank Limited. ','READY',228.48,206.72,217.6
+'CSF','NML-CAPR','Nishat Mills Ltd. ','READY',169.197,153.083,161.14
+'CSF','PPL-CAPR','Pakistan Petroleum Limited. ','READY',216.3,195.7,206
+'CSF','PSO-CAPR','Pakistan State Oil Co Ltd. ','READY',321.195,290.605,305.9
+'CSF','UBL-CAPR','United Bank Ltd. ','READY',200.655,181.545,191.1
+'CSF','NBP-CAPR','National Bank Of Pakistan. ','READY',50.946,46.094,48.52
+'CSF','FFC-CMAR','Fauji Fertilizer Co. Ltd. ','READY',92.148,83.372,87.76
+'CSF','HUBC-CMAR','Hub Power Company Limited. ','READY',104.832,94.848,99.84
+'CSF','MCB-CMAR','MCB Bank Limited. ','READY',226.6635,205.0765,215.87
+'CSF','NML-CMAR','Nishat Mills Ltd. ','READY',167.853,151.867,159.86
+'CSF','PPL-CMAR','Pakistan Petroleum Limited. ','READY',214.5885,194.1515,204.37
+'CSF','PSO-CMAR','Pakistan State Oil Co Ltd. ','READY',318.654,288.306,303.48
+'CSF','UBL-CMAR','United Bank Ltd. ','READY',199.059,180.101,189.58
+'CSF','HBL-CMAY','Habib Bank Limited. ','READY',228.7845,206.9955,217.89
+'CSF','AKBL-CMAY','Askari Bank Limited. ','READY',21.525,19.475,20.5
+'CSF','ATRL-CMAY','Attock Refinery Limited. ','READY',278.124,251.636,264.88
+'CSF','BAFL-CMAY','Bank Alfalah Ltd. ','READY',50.673,45.847,48.26
+'CSF','ENGRO-CMAY','Engro Corporation Limited. ','READY',330.54,299.06,314.8
+'CSF','FCCL-CMAY','Fauji Cement Co Ltd. ','READY',30.702,27.778,29.24
+'CSF','FFBL-CMAY','Fauji Fertilizer Bin Qasim Ltd. ','READY',40.236,36.404,38.32
+'CSF','FFC-CMAY','Fauji Fertilizer Co. Ltd. ','READY',93.6285,84.7115,89.17
+'CSF','HUBC-CMAY','Hub Power Company Limited. ','READY',106.512,96.368,101.44
+'CSF','KAPCO-CMAY','Kot Addu Power Company. ','READY',65.5305,59.2895,62.41
+'CSF','LUCK-CMAY','Lucky Cement Limited. ','READY',701.2215,634.4385,667.83
+'CSF','MCB-CMAY','MCB Bank Limited. ','READY',230.2965,208.3635,219.33
+'CSF','NML-CMAY','Nishat Mills Ltd. ','READY',170.541,154.299,162.42
+'CSF','PPL-CMAY','Pakistan Petroleum Limited. ','READY',218.022,197.258,207.64
+'CSF','PRL-CMAY','Pakistan Refinery Ltd. ','READY',40.719,36.841,38.78
+'CSF','PSO-CMAY','Pakistan State Oil Co Ltd. ','READY',323.7465,292.9135,308.33
+'CSF','UBL-CMAY','United Bank Ltd. ','READY',202.2405,182.9795,192.61
+'CSF','HBL-CMAR','Habib Bank Limited. ','READY',225.1725,203.7275,214.45
+'SIF','BKTI-MAY','Stock Index Future Contract ','READY',18557.73,15968.28,17263
+'SIF','OGTI-MAY','Stock Index Future Contract ','READY',21520.43,18517.58,20019
+'SIF','KSE30-MAY','Stock Index Future Contract ','READY',23364.05,20103.95,21734
+'SIF','KSE30-MAR','Stock Index Future Contract ','READY',21731.13,18698.88,20215
+'SIF','KSE30-APR','Stock Index Future Contract ','READY',24116.55,20751.45,22434
+'SIF','OGTI-APR','Stock Index Future Contract ','READY',21658.03,18635.98,20147
+'SIF','BKTI-APR','Stock Index Future Contract ','READY',18564.18,15973.83,17269
+'SIF','BKTI-MAR','Stock Index Future Contract ','READY',16508.78,14205.23,15357
+'SIF','OGTI-MAR','Stock Index Future Contract ','READY',21420.45,18431.55,19926
+'BNB','PK03TB101116','Market Treasury Bills 3 MTH Nov 10,2016 ',170,200,.0001,100
+'BNB','PK06TB160217','Market Treasury Bills 6 MTH Feb 16, 2017 ',170,200,.0001,100
+'BNB','PK06TB020317','Market Treasury Bills 6 MTH Mar 02 2017 ',170,200,.0001,100
+'BNB','JSTFC7','Jahangir Siddiqui & Co. Limited ',170,400,1,100
+'BNB','WTLTFC3','Worldcall Lelecom Ltd. ',170,400,1,100
+'BNB','TFCTRIBL','Trust Investment Bank Ltd. ',170,400,1,100
+'BNB','PACETFC','PACE Pakistan Ltd.(TFC) ',170,400,1,100
+'BNB','PK06TB060717','Market Treasury Bills 6 MTH Jul 06, 2017 ',170,200,.0001,0
+'BNB','PK12TB150218','Market Treasury Bills 12 MTH Feb 15 2018 ',170,200,.0001,100
+'BNB','PK03TB060717','Market Treasury Bills 3 MTH Jul 06,2017 ',170,200,.0001,0
+'BNB','PK12TB100518','Market Treasury Bills 12 MTH May 10 2018 ',170,200,.0001,100
+'BNB','PK06TB091117','Market Treasury Bills 6 MTH Nov 09, 2017 ',170,200,.0001,100
+'BNB','PK03TB310817','Market Treasury Bills 3 MTH Aug 31,2017 ',170,200,.0001,100
+'BNB','PK06TB150318','Market Treasury Bills 6 MTH Mar 15, 2018 ',170,200,.0001,100
+'BNB','PK12TB130918','Market Treasury Bills 12 MTH Sep 13 2018 ',170,200,.0001,100
+'BNB','PK03TB180118','Market Treasury Bills 3 MTH Jan 18,2018 ',170,200,.0001,100
+'BNB','PK06TB260418','Market Treasury Bills 6 MTH Apr 26, 2018 ',170,200,.0001,100
+'BNB','PK03TB120418','Market Treasury Bills 3 MTH Apr 12,2018 ',170,200,.0001,100
+'BNB','PK03TB140515','Market Treasury Bills 3 MTH May 14,2015 ',170,200,.0001,0
+'BNB','PK06TB260516','Market Treasury Bills 6 MTH May 26, 2016 ',170,200,.0001,0
+'BNB','PK03TB030316','Market Treasury Bills 3 MTH Mar 03,2016 ',170,200,.0001,0
+'BNB','TELETFC','Telecard Ltd.(TFC) ',170,400,1,328.45
+'BNB','AZLCLTFC2','Al-Zamin Leasing Corporation(2nd Issue) ',170,400,1,100
+'BNB','ANLTFC2','Azgard Nine Limited. ',170,400,1,98.9286
+'BNB','SPLCTFC3','Saudi Pak Leasing Co.Ltd ',170,400,1,37
+'BNB','NSB10Y1','National Savings Bonds ',170,400,1,100
+'BNB','PK12TB210116','Market Treasury Bills 12 MTH Jan 21 2016 ',170,200,.0001,100
+'BNB','PK03TB160415','Market Treasury Bills 3 MTH Apr 16,2015 ',170,200,.0001,100
+'BNB','PK06TB200815','Market Treasury Bills 6 MTH Aug 20,2015 ',170,200,.0001,100
+'BNB','SMBLTFC','SUMMIT Bank Limited.(TFC) ',170,400,1,100.5391
+'BNB','PK12TB080115','Market Treasury Bills 12 MTH Jan 8 2015 ',170,200,.0001,100
+'BNB','PK12TB300415','Market Treasury Bills 12 MTH Apr 30 2015 ',170,200,.0001,100
+'BNB','MCBTFC2','MCB Bank Limited-TFC2 ',170,400,1,100.827
+'BNB','PK03TB161014','Market Treasury Bills 3 MTH Oct 16,2014 ',170,200,.0001,0
+'BNB','PK03TB111214','Market Treasury Bills 3 MTH Dec 11,2014 ',170,200,.0001,0
+'BNB','PRLTFC2','Pakistan Refinery Ltd. (TFC2) ',170,400,1,100
+'BNB','PK12TB060215','Market Treasury Bills 12 MTH Feb 6 2015 ',170,200,.0001,100
+'BNB','PK03TB190215','Market Treasury Bills 3 MTH Feb 19, 2015 ',170,200,.0001,0
+'BNB','KELSC3','K-Electric Limited-SUKUK-3 ',170,400,1,104.4808
+'BNB','PK06TB161014','Market Treasury Bills 6 MTH Oct 16 2014 ',170,200,.0001,0
+'BNB','PK12TB160415','Market Treasury Bills 12 MTH Apr 16 2015 ',170,200,.0001,100
+'BNB','PK06TB111214','Market Treasury Bills 6 MTH Dec 11, 2014 ',170,200,.0001,0
+'BNB','PK12TB110615','Market Treasury Bills 12 MTH Jun 11 2015 ',170,200,.0001,0
+'BNB','PK06TB261214','Market Treasury Bills 6 MTH Dec 26, 2014 ',170,200,.0001,0
+'BNB','PK03TB271114','Market Treasury Bills 3 MTH Nov 27,2014 ',170,200,.0001,100
+'BNB','PK12TB030915','Market Treasury Bills 12 MTH Sep 3 2015 ',170,200,.0001,100
+'BNB','PK06TB131114','Market Treasury Bills 6 MTH Nov 13, 2014 ',170,200,.0001,0
+'BNB','PK12TB140515','Market Treasury Bills 12 MTH May 14 2015 ',170,200,.0001,0
+'BNB','PK06TB271114','Market Treasury Bills 6 MTH Nov 27, 2014 ',170,200,.0001,100
+'BNB','PK03TB131114','Market Treasury Bills 3 MTH Nov 13,2014 ',170,200,.0001,0
+'BNB','PK06TB190215','Market Treasury Bills 6 MTH Feb 19, 2015 ',170,200,.0001,0
+'BNB','PK12TB200815','Market Treasury Bills 12 MTH Aug 20 2015 ',170,200,.0001,100
+'BNB','PK03TB261214','Market Treasury Bills 3 MTH Dec 26, 2014 ',170,200,.0001,0
+'BNB','PK06TB160415','Market Treasury Bills 6 MTH Apr 16,2015 ',170,200,.0001,100
+'BNB','PK06TB300415','Market Treasury Bills 6 MTH APR 30,2015 ',170,200,.0001,100
+'BNB','PK03TB021014','Market Treasury Bills 3 MTH Oct 02,2014 ',170,200,.0001,0
+'BNB','PK06TB080115','Market Treasury Bills 6 MTH Jan 08 2015 ',170,200,.0001,100
+'BNB','ENGROSC2','Engro Corporation Ltd.(SUKUK-2) ',170,400,1,115.5
+'BNB','PK03TB060215','Market Treasury Bills 3 MTH Feb 06, 2015 ',170,200,.0001,100
+'BNB','PK06TB140515','Market Treasury Bills 6 MTH May 14 2015 ',170,200,.0001,0
+'BNB','PK06TB110615','Market Treasury Bills 6 MTH Jun 11 2015 ',170,200,.0001,0
+'BNB','PK12TB241215','Market Treasury Bills 12 MTH Dec 24 2015 ',170,200,.0001,100
+'BNB','PK03TB221216','Market Treasury Bills 3 MTH Dec 22,2016 ',170,200,.0001,100
+'BNB','FATIMASC','Fatima Fertilizer Company Ltd.(SUKUK) ',170,400,1,101.9
+'BNB','PK06TB231117','Market Treasury Bills 6 MTH Nov 23, 2017 ',170,200,.0001,100
+'BNB','PK12TB240518','Market Treasury Bills 12 MTH May 24 2018 ',170,200,.0001,100
+'BNB','PK03TB150318','Market Treasury Bills 3 MTH Mar 15,2018 ',170,200,.0001,100
+'BNB','PK03TB260418','Market Treasury Bills 3 MTH Apr 26,2018 ',170,200,.0001,100
+'BNB','PK03TB100518','Market Treasury Bills 3 MTH May 10,2018 ',170,200,.0001,100
+'BNB','PK12TB070618','Market Treasury Bills 12 MTH Jun 07 2018 ',170,200,.0001,100
+'BNB','PK03TB240518','Market Treasury Bills 3 MTH May 24,2018 ',170,200,.0001,100
+'BNB','PK12TB050718','Market Treasury Bills 12 MTH Jul 05 2018 ',170,200,.0001,100
+'BNB','PK12TB020818','Market Treasury Bills 12 MTH Aug 02 2018 ',170,200,.0001,100
+'BNB','PK03TB150218','Market Treasury Bills 3 MTH Feb 15,2018 ',170,200,.0001,100
+'BNB','PK06TB240518','Market Treasury Bills 6 MTH May 24 2018 ',170,200,.0001,100
+'BNB','PK03TB020317','Market Treasury Bills 3 MTH Mar 02,2017 ',170,200,.0001,100
+'BNB','PK12TB180118','Market Treasury Bills 12 MTH Jan 18 2018 ',170,200,.0001,100
+'BNB','PK03TB091117','Market Treasury Bills 3 MTH Nov 09,2017 ',170,200,.0001,100
+'BNB','PK06TB150218','Market Treasury Bills 6 MTH Feb 15, 2018 ',170,200,.0001,100
+'BNB','PK12TB121017','Market Treasury Bills 12 MTH Nov 12 2017 ',170,200,.0001,100
+'BNB','PK12TB210618','Market Treasury Bills 12 MTH Jun 21 2018 ',170,200,.0001,100
+'BNB','PK03TB121017','Market Treasury Bills 3 MTH Oct 12,2017 ',170,200,.0001,100
+'BNB','PK06TB180118','Market Treasury Bills 6 MTH Jan 18, 2018 ',170,200,.0001,100
+'BNB','PK12TB190718','Market Treasury Bills 12 MTH Jul 19 2018 ',170,200,.0001,100
+'BNB','PK03TB231117','Market Treasury Bills 3 MTH Nov 23,2017 ',170,200,.0001,100
+'BNB','PK12TB300818','Market Treasury Bills 12 MTH Aug 30 2018 ',170,200,.0001,100
+'BNB','PK06TB070618','Market Treasury Bills 6 MTH Jun 07, 2018 ',170,200,.0001,100
+'BNB','PK03TB290318','Market Treasury Bills 3 MTH Mar 29,2018 ',170,200,.0001,100
+'BNB','PK03TB160217','Market Treasury Bills 3 MTH Feb 16,2017 ',170,200,.0001,100
+'BNB','PK12TB231117','Market Treasury Bills 12 MTH Nov 23 2017 ',170,200,.0001,100
+'BNB','PK12TB260418','Market Treasury Bills 12 MTH Apr 26 2018 ',170,200,.0001,100
+'BNB','PK06TB290318','Market Treasury Bills 6 MTH Mar 29, 2018 ',170,200,.0001,100
+'BNB','PK12TB270918','Market Treasury Bills 12 MTH Sep 27 2018 ',170,200,.0001,100
+'BNB','PK06TB120418','Market Treasury Bills 6 MTH Apr 12,2018 ',170,200,.0001,100
+'BNB','PK06TB100518','Market Treasury Bills 6 MTH May 10 2018 ',170,200,.0001,100
+'BNB','BAFLTFC5','Bank Alfalah Limited ',170,400,1,100.878
+'BNB','PK06TB021014','Market Treasury Bills 6 MTH Oct 02, 2014 ',170,200,.0001,0
+'BNB','PK06TB301014','Market Treasury Bills 6 MTH Oct 30 2014 ',170,200,.0001,0
+'BNB','PK03TB300415','Market Treasury Bills 3 MTH Apr 30, 2015 ',170,200,.0001,100
+'BNB','PK06TB060815','Market Treasury Bills 6 MTH Aug 06,2015 ',170,200,.0001,0
+'BNB','PK03TB110615','Market Treasury Bills 3 MTH Jun 11,2015 ',170,200,.0001,0
+'BNB','KELSC4','K-Electric Limited-SUKUK-4 ',170,400,1,101.885
+'BNB','PK06TB241215','Market Treasury Bills 6 MTH Dec 24, 2015 ',170,200,.0001,100
+'BNB','PK06TB030316','Market Treasury Bills 6 MTH Mar 03 2016 ',170,200,.0001,0
+'BNB','PK03TB060815','Market Treasury Bills 3 MTH Aug 06,2015 ',170,200,.0001,0
+'BNB','PK12TB101116','Market Treasury Bills 12 MTH Nov 10 2016 ',170,200,.0001,100
+'BNB','PK06TB030915','Market Treasury Bills 6 MTH Sep 03, 2015 ',170,200,.0001,100
+'BNB','PK12TB030316','Market Treasury Bills 12 MTH Mar 3 2016 ',170,200,.0001,0
+'BNB','PK12TB140416','Market Treasury Bills 12 MTH Apr 14 2016 ',170,200,.0001,0
+'BNB','PK03TB200815','Market Treasury Bills 3 MTH Aug 20,2015 ',170,200,.0001,100
+'BNB','PK12TB260516','Market Treasury Bills 12 MTH May 26 2016 ',170,200,.0001,0
+'BNB','PK03TB030915','Market Treasury Bills 3 MTH Sep 03,2015 ',170,200,.0001,100
+'BNB','PK06TB210116','Market Treasury Bills 6 MTH Jan 21, 2016 ',170,200,.0001,100
+'BNB','SNBLTFC2','Soneri Bank Limited(TFC2) ',170,400,1,100.2206
+'BNB','PK03TB210116','Market Treasury Bills 3 MTH Jan 21,2016 ',170,200,.0001,100
+'BNB','PK03TB241215','Market Treasury Bills 3 MTH Dec 24, 2015 ','READY',200,.0001,100
+'BNB','PK06TB140416','Market Treasury Bills 6 MTH Apr 14, 2016 ',170,200,.0001,0
+'BNB','PK12TB221216','Market Treasury Bills 12 MTH Dec 22 2016 ',170,200,.0001,100
+'BNB','PK03TB140416','Market Treasury Bills 3 MTH Apr 14, 2016 ',170,200,.0001,0
+'BNB','PK03TB260516','Market Treasury Bills 3 MTH May 26,2016 ',170,200,.0001,0
+'BNB','PK12TB020317','Market Treasury Bills 12 MTH Mar 02 2017 ',170,200,.0001,100
+'BNB','PK06TB101116','Market Treasury Bills 6 MTH Nov 10, 2016 ',170,200,.0001,100
+'BNB','PK06TB221216','Market Treasury Bills 6 MTH Dec 22, 2016 ',170,200,.0001,100
+'BNB','PK12TB160217','Market Treasury Bills 12 MTH Feb 16 2017 ',170,200,.0001,100
+'BNB','HBLTFC','Habib Bank Limited.(TFC) ',170,400,1,99.75
+'BNB','PK12TB060717','Market Treasury Bills 12 MTH Jul 06 2017 ',170,200,.0001,0
